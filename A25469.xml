@@ -1,0 +1,1650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and funeral sermon of the Reverend Mr. Thomas Brand Dr. Samuel Annesley.</title>
+            <author>Annesley, Samuel, 1620?-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 145 KB of XML-encoded text transcribed from 101 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25469</idno>
+            <idno type="STC">Wing A3230</idno>
+            <idno type="STC">ESTC R16341</idno>
+            <idno type="EEBO-CITATION">13617984</idno>
+            <idno type="OCLC">ocm 13617984</idno>
+            <idno type="VID">100800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100800)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 832:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and funeral sermon of the Reverend Mr. Thomas Brand Dr. Samuel Annesley.</title>
+                  <author>Annesley, Samuel, 1620?-1696.</author>
+               </titleStmt>
+               <extent>[6], 135, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brand, Thomas, 1635-1691.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100800:1"/>
+            <pb facs="tcp:100800:1" rendition="simple:additions"/>
+            <p>THE LIFE AND FUNERAL SERMON Of the Reverend Mr. <hi rend="blackletterType">Thomas Brand.</hi>
+            </p>
+            <p>BY Dr. <hi>SAM<g ref="char:V">Ʋ</g>EL ANNESLEY.</hi>
+            </p>
+            <q>
+               <bibl>Phil. ii. 20.</bibl>
+               <p>I have no Man like minded who will na<g ref="char:EOLhyphen"/>turally care for your State.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi rend="blackletterType">Iohn Dunton,</hi> at the <hi>Raven</hi> in the <hi>Poultrey,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100800:2" rendition="simple:additions"/>
+            <pb facs="tcp:100800:2"/>
+            <head>To the Honourable the Lady <hi>Bridget Roberts,</hi> Grace be with you, Mercy and Peace ſrom God the Father, and from the Lord Jeſus Chriſt, the Son of the Father in Truth and Love.<note place="margin">2 <hi>John</hi> 3.</note>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THIS Eminent Saint, now in Glory, having been ſixteen Years your Soul guide, to the eternal Advantage of your ſelf, and deareſt Relations, and your Houſe being (as it were) the Sanctuary for Divine Worſhip, for the ſpreading of Religion through the Country. This can<g ref="char:EOLhyphen"/>not but render his Memory <hi>to you</hi> pre<g ref="char:EOLhyphen"/>cious; and you may expect, that as they had the Benefit of his Miniſtry from your Houſe, they ſhould receive the Memoirs of it from your Hands. I make no A<g ref="char:EOLhyphen"/>pology at all for what's <hi>In</hi> the Narra<g ref="char:EOLhyphen"/>tive, but only for what's <hi>left out.</hi> I am (perhaps) ſo needleſly ſcrupulous of offending any, that (perhaps) I may even<g ref="char:EOLhyphen"/>tually pleaſe none. Be it ſo. 'Tis Spiritual Profit I aim at, if I can but hereby pro<g ref="char:EOLhyphen"/>voke
+<pb facs="tcp:100800:3"/> and encourage to what is deſervedly imitable: I gain my point. I ſhall ſay nothing particularly to your ſelf; ſhould I ſpeak any good of you, though never ſo true, 'twould look like Flattery, which I abhor; and to ſpeak ill of you (with Truth) is beyond the Power of your moſt captious Enemies (if you have any ſuch.) Go on therefore, as you have begun, pra<g ref="char:EOLhyphen"/>ctically to remember the ſound Doctrine, and <hi>Non-ſuch</hi> Example ſet before you; which is beyond any thing that can be ſaid, or done by me: I ſhall always add my poor Prayers, that in ſo doing, you and yours may be bleſſed in both Worlds. Though this may by ſome be accounted the leaſt: Yet this is really the moſt that can be done by</p>
+            <closer>
+               <salute>Madam,</salute>
+               <signed>Your Ladiſhip's moſt hearty (tho' moſt worthleſs) Servant, <hi>Samuel Anneſley.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100800:3"/>
+            <head>To my deſervedly honoured Friend Mr. <hi>John Brand,</hi> the only Bro<g ref="char:EOLhyphen"/>ther of Reverend Mr. <hi>Tho. Brand,</hi> now ſleeping in Jeſus, Grace, Mercy and Peace be multiplied.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>MY delay of this ill drawn Portrai<g ref="char:EOLhyphen"/>ture is utterly inexcuſable. I'll lie down therefore under the Cenſure of it, to be ſo long in tacking together ſo ſhort a Story; which though it be true (and that is all the good that can be ſaid of it, yet) 'tis pity ſuch Truths ſhould be expoſed, ſo deſpicably naked, as to have no faſhionable Ornament, to ren<g ref="char:EOLhyphen"/>der it acceptable, ſome being firſt taken with the Dreſs, and that inſinuates the Matter: To this I'll ſay not a word for my ſelf, and but a few to the Subject. I am more than a Witneſs, how ſollicitous you were in fitting your Brother for the Miniſtry; he came firſt into the World, but (I think) you were firſt in Chriſt: Pardon me for giving a hint of your Soul travel for his New birth. I cannot
+<pb facs="tcp:100800:4"/> forget, how reſtleſs you were, till you had brought his troubled Soul to a well grounded Peace. <note place="margin">Jer. 2.2.</note> I remember (and Chriſt much more) the Kindneſs of your Youth, with what zeal you ſet out your Race: Go on, dear Sir, go on with a growing Vigor. It is not long ſince you thought to have been in Heaven before your Bro<g ref="char:EOLhyphen"/>ther; but he hath got the ſtart of you, and hath left you <hi>ſuch</hi> an <hi>Example,</hi> which is more <hi>to you</hi> than to any one elſe in the World; follow him cloſe (thô I hope you will come late to Heaven) in his Piety, Charity, and Uſefulneſs all manner of ways; That none may com<g ref="char:EOLhyphen"/>plain (his Miniſterial Labours only ex<g ref="char:EOLhyphen"/>cepted) that Mr. <hi>Thomas Brand</hi> is dead while Mr. <hi>John Brand</hi> lives; And, O that he may live in your Poſterity, that you and yours may be the Bleſſed of the Lord from one Generation to another. So prays,</p>
+            <closer>
+               <salute>Dear Sir,</salute>
+               <signed>Your Soul-ſervant, <hi>Samuel Anneſley.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="biography">
+            <pb n="1" facs="tcp:100800:4"/>
+            <head>The LIFE Of the Reverend Mr. <hi>THOMAS BRAND.</hi>
+            </head>
+            <p>
+               <hi>WOuld to God you could bear with me a little in my folly, and indeed bear with me,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 11.1.</note> for I have under<g ref="char:EOLhyphen"/>taken what I can no way perform, ſo much as to my <hi>own,</hi> much leſs to <hi>others</hi> ſatisfaction, when the col<g ref="char:EOLhyphen"/>lecting of ſome Memorables of Mr. <hi>Brand</hi>'s Life was deſired of me I too ſuddainly conſented, not ſufficiently conſidering, what Diffi<g ref="char:EOLhyphen"/>culties beſet me: Namely ſome things of <hi>greatest</hi> moment muſt not be mention'd at all, either ſome <hi>Perſons,</hi> or <hi>Times</hi> will not bear it; in other things, <hi>Places</hi> and <hi>Perſons,</hi> upon the ſame Reaſons, muſt not be named: and of thoſe things
+<pb n="2" facs="tcp:100800:5"/> which may be ſpoken, where they can't be mention'd without com<g ref="char:EOLhyphen"/>mending of him, others of name, will count themſelves reproach'd; and what ſcapes theſe difficulties, is attended by another, which tho' it be really better, 'tis in ſome re<g ref="char:EOLhyphen"/>ſpects worſe, 'tis that which Chriſt charged the <hi>Jews</hi> with, <note place="margin">
+                  <hi>Joh.</hi> 8.45.</note> 
+               <hi>becauſe I tell you the truth you believe me not:</hi> So, when I ſhall mention ſomewhat done by him, which perhaps was never done by any before, thoſe that have <hi>Faith</hi> e<g ref="char:EOLhyphen"/>nough to ſave their Souls, may want <hi>Faith</hi> to credit ſuch a Rela<g ref="char:EOLhyphen"/>tion, tho' atteſted by ſuch evidence which is in its kind infallible. What ſhall I do? muſt I? ſhall I, yes I will, venture out a crippled Diſcourſe which will preſent you with ſome<g ref="char:EOLhyphen"/>what worthy your acceptation, and let that procure your pardon for the mangling the reſt.</p>
+            <pb n="3" facs="tcp:100800:5"/>
+            <p>
+               <note place="margin" type="runSum">His Birth.</note> Mr. <hi>Thomas Brand</hi> was born at <hi>Leaden Roothing,</hi> in the County of <hi>Eſſex,</hi> in the Year, 1635. his Fa<g ref="char:EOLhyphen"/>ther was Mr. <hi>Thomas Brand,</hi> a <hi>Dig<g ref="char:EOLhyphen"/>nitary</hi> of the Church of <hi>England,</hi> the mentioning of this, unavoid<g ref="char:EOLhyphen"/>ably leads me to obviate the only plauſible Objection againſt his being ſo zealous a Diſſenter, to which I need ſay but this: <q rend="inline">
+                  <hi>His chief Zeal was neither for, nor againſt any Party whatſoever, but for the vigorous promoting of the ſound Knowledge of thoſe Doctrines wherein we are all agreed, and of that Holineſs which we all com<g ref="char:EOLhyphen"/>mend, tho' too few pra<g ref="char:EOLhyphen"/>ctice:
+<pb n="4" facs="tcp:100800:6"/> And this right Chriſtian Temper he ex<g ref="char:EOLhyphen"/>erciſed towards the Con<g ref="char:EOLhyphen"/>forming Clergy. He ſpake honourably of the Piety and Learning of ſome, and never let fly indecent Reflections, or bitter In<g ref="char:EOLhyphen"/>vectives againſt any, but maintained and encreaſed this commendable Mode<g ref="char:EOLhyphen"/>ration all his Life.</hi>
+               </q> Thoſe who were intimately acquainted with him could not perceive his leaning to any Party whatſoever, but when any Diſcourſe tended to partiality, he did induſtriouſly divert it to <q rend="inline">
+                  <hi>downright God<g ref="char:EOLhyphen"/>lineſs,</hi>
+               </q>
+               <pb n="5" facs="tcp:100800:6"/> or to ſomewhat uſeful to promote it. <q rend="inline">
+                  <hi>He was never without ſome Project for doing good, and could as ſoon ceaſe to live, as ceaſe to be attempting the do<g ref="char:EOLhyphen"/>ing good to Souls.</hi>
+               </q>
+            </p>
+            <p>More particularly,</p>
+            <p>
+               <note place="margin" type="runSum">His School.</note> He was ſent to School to <hi>Biſhop Starford,</hi> where, how ſoon, I can't ſay, he attain'd to ſuch an accuracy of <hi>Grammar</hi>-Learning, that he made good uſe of it to the great Benefit of others, whom he would <hi>criti<g ref="char:EOLhyphen"/>cally</hi> examin upon all occaſions, throughout the Courſe of his Life; ſcarce any young <hi>Scholar</hi> whom he occaſionally met with, but hath felt it: He well <hi>apprehending</hi> as other <hi>learn'd</hi> Men complain, <hi>that the defect of Grammar-Learning is
+<pb n="6" facs="tcp:100800:7"/> very hardly, if ever repaired by after Studies.</hi>
+            </p>
+            <p>
+               <note place="margin" type="runSum">Univerſity.</note> He was ſent thence to <hi>Merton Colledge</hi> in <hi>Oxford</hi> (that he ſoon ran thro' his juvenile Academical Studies may be by this evident) He enter'd upon, and throughly ſtudied the <hi>Arminian</hi> and <hi>Socinian</hi> Controverſies, with that of <hi>Scien<g ref="char:EOLhyphen"/>tia media;</hi> theſe Studies pleaſed him wonderfully in the doing, but not upon a later review, he ſaid ſince, <hi>nothing yields me comfort, but my Preaching, Catechiſing, and what I did for the Converſion of Souls: If he had his time again, he would ſpend it in reading the Holy Scriptures, with two or three good Commentaries, in Prayer, and Meditation, and labouring in pub<g ref="char:EOLhyphen"/>lic.</hi> Only I muſt acknowledge, that I am not certain, whether it was there, or after, that he lanch'd into thoſe depths, I muſt confeſs, I rather think, his ſtudy there, look'd another way.</p>
+            <pb n="7" facs="tcp:100800:7"/>
+            <p>
+               <note place="margin" type="runSum">
+                  <hi>Temple.</hi>
+               </note> For he removed thence to the <hi>Temple</hi> being deſign'd for a <hi>Lawyer,</hi> and there (as in all places elſe) his profiting was not ordinary. I re<g ref="char:EOLhyphen"/>member I heard him many a year after, warmly diſcourſe of an oc<g ref="char:EOLhyphen"/>caſional <hi>Moot-caſe</hi> he then read in the <hi>Temple,</hi> but God deſign'd him for his Spiritual <hi>Temple,</hi> God brought him to <hi>London,</hi> where <hi>his Soul trouble was the Introduction to our intimate Acquaintance,</hi> which increaſed, and continued, while he lived. <hi>Now</hi> was the time of his ef<g ref="char:EOLhyphen"/>fectual Calling, which was in ſome things like that of the bleſſed A<g ref="char:EOLhyphen"/>poſtle <hi>Paul,</hi> who was at <hi>once</hi> cal<g ref="char:EOLhyphen"/>led to be a <hi>Chriſtian</hi> and an <hi>A<g ref="char:EOLhyphen"/>poſtle;</hi> ſo this our <hi>Timothy,</hi> was at <hi>once</hi> called to be a <hi>Saint</hi> and a <hi>Mi<g ref="char:EOLhyphen"/>niſter.</hi> What the Throws of his New-birth were, are not fit to be made public; only this let me ſay, <q rend="inline">
+                  <hi>He was more abundant
+<pb n="8" facs="tcp:100800:8"/> in Spiritual caſes of Con<g ref="char:EOLhyphen"/>ſcience than ever any I have met with in my al<g ref="char:EOLhyphen"/>moſt fifty Years Miniſtry.</hi>
+               </q> (And thanks to Divine Grace, I have been intimately acquainted with Chriſtians as Eminent for Grace, as moſt in the Age, where<g ref="char:EOLhyphen"/>in they lived.) This new Convert had <hi>daily</hi> need of a more accom<g ref="char:EOLhyphen"/>pliſh'd Guide than he made choice of: And therefore, tho' he deſired to be one of my Family, yet, be<g ref="char:EOLhyphen"/>ſides the want of ſutable Conveni<g ref="char:EOLhyphen"/>encies, I recommended him to a more experienced and aged <hi>Caſuiſt</hi> with whom he ſometime continu<g ref="char:EOLhyphen"/>ed; and tho' the Word of the Lord was as Fire in his Boſom, to be diſperſed thence, for the kind<g ref="char:EOLhyphen"/>ling a holy Flame in others, yet the Concerns of his own Soul were ſo preſſing upon him, that he
+<pb n="9" facs="tcp:100800:8"/> could comparatively mind nothing elſe. He went about with the <hi>Ar<g ref="char:EOLhyphen"/>rows of God ſticking in his Conſci<g ref="char:EOLhyphen"/>ence;</hi> and, <q rend="inline">
+                  <hi>now God furniſh'd him with ſuch a ſtock of Experiences, that he might counſel, and com<g ref="char:EOLhyphen"/>fort others, with the very Method wherewith God refreſh'd him.</hi>
+               </q> Now he began to be reſtleſs, becauſe he did <hi>Chriſt</hi> no ſervice, <q rend="inline">
+                  <hi>fain he would do ſomething, but the Office of the Mini<g ref="char:EOLhyphen"/>ſtry appear'd ſo tremen<g ref="char:EOLhyphen"/>dous, that the thoughts of it made him tremble.
+<pb n="10" facs="tcp:100800:9"/> 
+                     <hi>What ſhall he do?</hi> be idle he dares not, work in the Lord's Vineyard he dares not.</hi>
+               </q> Oh, the <q rend="inline">
+                  <hi>Per<g ref="char:EOLhyphen"/>plexities</hi>
+               </q> of his Soul! an <hi>expe<g ref="char:EOLhyphen"/>dient</hi> is thought of, that he might be <hi>led</hi> into the Miniſtry by <hi>Family Worſhip</hi> and <hi>Preaching ſometimes,</hi> which might be afterwards more frequent, and conſtant, and be<g ref="char:EOLhyphen"/>hold here a Wonder of Providence calls him into <hi>Kent,</hi> to <hi>Glaſſenbury,</hi> to the honourable and moſt deſer<g ref="char:EOLhyphen"/>vedly Honour'd the Lady <hi>Dowager Roberts,</hi> who had four ſmall Chil<g ref="char:EOLhyphen"/>dren, to whoſe pious Education he was ſingularly helpful, where he preach'd with ſuch Acceptation, and God follow'd him with more ſucceſs then could be ſo ſoon hoped for. Now this <hi>Star</hi> begun to <hi>riſe</hi> and <hi>ſhine</hi> and lead Men to <hi>Chriſt:</hi>
+               <pb n="11" facs="tcp:100800:9"/> for tho' the <q rend="inline">
+                  <hi>Modeſty, Hu<g ref="char:EOLhyphen"/>mility and Self-denial</hi>
+               </q> which ran through the whole Courſe of his Life <hi>reſtrain'd</hi> him, yet his <hi>Love</hi> to Chriſt and Souls forced him to what's more then vulgar, in all he at<g ref="char:EOLhyphen"/>tempted; I cannot ſingle out any ſort of his Actions, but might be as a general Head, attended by nu<g ref="char:EOLhyphen"/>merous particular inſtances, all of them well worthy of remem<g ref="char:EOLhyphen"/>brance: He better deſerving than the Kings of <hi>Perſia</hi> to have Scribes continually preſent, to write down remarkable Paſſages: <q rend="inline">
+                  <hi>He do<g ref="char:EOLhyphen"/>ing nothing, (humane frailty excepted) but what was deſervedly remarkable.</hi>
+               </q> To begin with inſtances of what was in his own eye moſt con<g ref="char:EOLhyphen"/>temptible, namely worldly bu<g ref="char:EOLhyphen"/>ſineſs
+<pb n="12" facs="tcp:100800:10"/> his <hi>Wiſdom, Prudence</hi> and <hi>Sagacity</hi> about worldly Affairs was beyond appearance <hi>deep,</hi> and <hi>piercing:</hi> I have known him in <hi>dubious</hi> caſes, wherein great <hi>Law<g ref="char:EOLhyphen"/>yers</hi> have been <hi>ſhort</hi> in their <hi>Ad<g ref="char:EOLhyphen"/>vice,</hi> his Council hath been <hi>pro<g ref="char:EOLhyphen"/>per</hi> and <hi>ſafe:</hi> But when he hath been conſulted, he ſtill bad them go to the great Counſellor, and <q rend="inline">
+                  <hi>in all Plunges it was his uſual ſaying, I commit it to God, or I leave it with God and this he would do with the greateſt quiet of Mind and acquieſcence in God's iſſuing of it which way he pleaſed.</hi>
+               </q> I can't ſay, for I have been leaſt ſolicitous to enquire after theſe his good works, but do not heſitate to apply to
+<pb n="13" facs="tcp:100800:10"/> him that of <hi>Job,</hi> 
+               <note place="margin">
+                  <hi>Job</hi> 29.11,12.</note> 
+               <hi>When the ear heard him it bleſſed him; and when the eye ſaw him, it gave wit<g ref="char:EOLhyphen"/>neſs to him. The Bleſſing of him that was ready to periſh, came up<g ref="char:EOLhyphen"/>on him: He was a Father to the Poor,</hi> &amp;c. Preſently upon his coming to the place where provi<g ref="char:EOLhyphen"/>dence ſent him, he ſet himſelf to his great Maſter's work with that <hi>vigour</hi> and <hi>prudence</hi> which eviden<g ref="char:EOLhyphen"/>ced he came there for nothing elſe: <q rend="inline">
+                  <hi>Receiving no Sallery for himſelf but directing it to pious Charity.</hi>
+               </q> His Deport<g ref="char:EOLhyphen"/>ment in the <hi>Family</hi> was every way inſtructive. <hi>The Worſhip of God in the Family was ſo <q rend="inline">
+                     <hi>ſeaſon<g ref="char:EOLhyphen"/>ably</hi>
+                  </q> timed, ſo <q rend="inline">
+                     <hi>constantly awefully and ſutably</hi>
+                  </q> per<g ref="char:EOLhyphen"/>form'd that it did much conduce to the drawing others into the ways
+<pb n="14" facs="tcp:100800:11"/> of God,</hi> that there were but few, if any in that numerous Family, who did not worſhip God in <hi>ſe<g ref="char:EOLhyphen"/>cret</hi> as well as <hi>with others;</hi> where, <q rend="inline">
+                  <hi>Reading the Scripture, or Catechiſing, or Singing of Pſalms,</hi>
+               </q> 
+               <hi>accompanied Family Prayer twice every day:</hi> 
+               <q rend="inline">
+                  <hi>He conſtantly roſe, if in health at five of the Clock, and continued in his Study till Family Prayer, and then to his Study again, till a little before Noon, and after Dinner when he had walk'd or diſcours'd a little, he return'd to his Study, <hi>ſaying,</hi> I muſt to my
+<pb n="15" facs="tcp:100800:11"/> buſineſs:</hi>
+               </q> Complaining, if by Company he had been longer detain'd then he was willing, of<g ref="char:EOLhyphen"/>ten ſaying, <hi>Amici ſunt fures tem<g ref="char:EOLhyphen"/>poris</hi> (Friends are thieves of time.) <hi>After Supper he came down with great cheerfulneſs;</hi> ſo far was he from being by ſtudy, or any thing elſe, <hi>ſowr'd</hi> into any diſguſtful temper, that ſome who providentially abode awhile in the Family, who (it was ſear'd) were <hi>no great friends to the Power of Religion, could not but expreſs a pleaſedneſs with his Converſation, and 'tis hoped went thence ſeriouſly Godly.</hi>
+            </p>
+            <p>He carried himſelf with a <hi>ſweet, humble</hi> and <hi>affable Deportment,</hi> void of Oſtentation, or <hi>Vain glory;</hi> he was well acquainted with his own heart, and the Temptations wherewith we are beſet, and there<g ref="char:EOLhyphen"/>fore would frequently inculcate the Precepts of Humility, and the dan<g ref="char:EOLhyphen"/>ger
+<pb n="16" facs="tcp:100800:12"/> of Pride, he begun betimes to watch againſt theſe, and continued it while he lived. How deſirous he was of the Welfare of that <hi>Fa<g ref="char:EOLhyphen"/>mily</hi> in every ſence, was clearly ſeen in his <hi>joy</hi> when things went well there, and his <hi>trouble</hi> if they did not; I doubt not but the root, and all the branches of that Houſe are ready to make their grateful Acknowledgments thereof, he be<g ref="char:EOLhyphen"/>ing more concern'd for the Ho<g ref="char:EOLhyphen"/>nourable <hi>Lady,</hi> and her Children than for himſelf, when any Trouble threatned: He was not long there, before his amiable Deportment and inſtructive Diſcourſes inſenſi<g ref="char:EOLhyphen"/>bly drew in the beſt of the Neigh<g ref="char:EOLhyphen"/>bourhood into his familiar ac<g ref="char:EOLhyphen"/>quaintance, that they might en<g ref="char:EOLhyphen"/>joy the Bleſſing of his Labours; here he ſoon, preach'd <hi>twice</hi> eve<g ref="char:EOLhyphen"/>ry Lord's-day, and frequently a <hi>third time</hi> on the Lord's-day even<g ref="char:EOLhyphen"/>ing, at two miles diſtance; repeat<g ref="char:EOLhyphen"/>ing
+<pb n="17" facs="tcp:100800:12"/> his Sermons, examining, and inſtructing the Family, and pray<g ref="char:EOLhyphen"/>ing with them at his return: All this he continued till he procured for them an excellent Preacher, whoſe preaching was deſervedly eſteem'd by the Serious, and above the Contempt of Scoffers: This beſides <hi>weekly</hi> Lectures at ſeveral places, and a <hi>monthly</hi> Faſt: Theſe Lectures were ſet up by him, and carried on by him, or by others of his procuring. I forbear naming the places.</p>
+            <p>A zealous Miniſter for a Neigh<g ref="char:EOLhyphen"/>bour Corporation was procur'd, and maintain'd by him and his Friends. In ſhort, <hi>his Labours and Expences for Souls was abundant, and [thro' Grace] his ſucceſs was an<g ref="char:EOLhyphen"/>ſwerable, many, <hi>very</hi> many there, will bleſs God for him to Eter<g ref="char:EOLhyphen"/>nity.</hi>
+            </p>
+            <p>But all this while, he durſt not undertake the <q rend="inline">
+                  <hi>Office</hi>
+               </q> of the <hi>Mi<g ref="char:EOLhyphen"/>niſtry,</hi>
+               <pb n="18" facs="tcp:100800:13"/> he had ſuch <hi>awful</hi> thoughts of that tremendous <q rend="inline">
+                  <hi>Office,</hi>
+               </q> and ſo <hi>low</hi> thoughts of himſelf, that he durſt not venture till Providence <hi>thruſt</hi> him forward, in this, as in other things, to undertake what he trembled at.</p>
+            <p>Now Reverend Mr. <hi>Pointall</hi> dy<g ref="char:EOLhyphen"/>ing, a door is opened for more public Service, to which, God and Man ſo call'd him, that he is not able to withſtand it. Now tho' his ſtay was earneſtly deſired, and affectionately urged by all in the Family, who might ſay to him, what was ſaid of <hi>Jacob,</hi> 
+               <note place="margin">
+                  <hi>Gen.</hi> 30.27.</note> 
+               <hi>I have learn'd by experience, that the Lord hath bleſſed me for thy ſake,</hi> yet he was deaf to all Sollicitations, be<g ref="char:EOLhyphen"/>ing <hi>eaſily</hi> perſwadable in any thing concerning himſelf, but <hi>inexorable</hi> in the Cauſe of God. But he did with great Conſcience and Inge<g ref="char:EOLhyphen"/>nuity introduce a worthy Suc<g ref="char:EOLhyphen"/>ceſſor, whoſe great Piety, and
+<pb n="19" facs="tcp:100800:13"/> miniſterial Abilities were beyond vulgar.</p>
+            <p>Much about this time, (not long before or after) God ſent him to a <hi>Burrough</hi> in <hi>Suſſex,</hi> where he hath occaſionally acknowledged he met with peculiar aſſiſtance of the Spi<g ref="char:EOLhyphen"/>rit of God; compaſſion to Souls, in a caſe ſomewhat more then or<g ref="char:EOLhyphen"/>dinary moved him to ſet up a Meeting there; what <hi>Difficulties</hi> he grappled with, I will not men<g ref="char:EOLhyphen"/>tion; many weariſome Winter Journeys he had, which were not tireſome to him, thro' hopes of doing good, which made all plea<g ref="char:EOLhyphen"/>ſant; and he was not diſappointed in his hopes. <hi>The Lord was with him whereſoever he went,</hi> and gave wonderful ſucceſs to his Labours. He procur'd eleven more Miniſters to join with him to ſet up conſtant Preaching there.</p>
+            <pb n="20" facs="tcp:100800:14"/>
+            <p>Among many Remarkables there, I'll mention only this,</p>
+            <p>One Lord's-day being to Preach, the Doors were no ſooner open'd, but the place was crowded full, and many that cou'd not get in, ſtood about the Door, in his Pray<g ref="char:EOLhyphen"/>er he had ſuch a ſtrong Impreſſion on his Spirit, with reſpect to the Multitude, that Chriſt would have compaſſion on the Multitude, and not ſend them empty away, his Soul was ſo vehemently carri<g ref="char:EOLhyphen"/>ed out in earneſt Prayer for the Multitude, that he had much ado to contain himſelf, and ſome of the Hearers were ſutably affected. In ſhort, while there was Liberty, and afterwards when Liberty was reſtored, tho' he was removed at a great diſtance from them, he ceaſed not to be mindful of them, but his <hi>Care</hi> and <hi>Purſe</hi> procured
+<pb n="21" facs="tcp:100800:14"/> them one Miniſter after another, till they were ſettled, as they were before he died, under the Guidance of a Maſter Work-man in the Lord's Vineyard.</p>
+            <p>But to return to <hi>Staplehurſt,</hi> a<g ref="char:EOLhyphen"/>bout this time God lift him up a<g ref="char:EOLhyphen"/>bove his ſinking fears about Ordi<g ref="char:EOLhyphen"/>nation. He that to the Apoſtles queſtion, <hi>Who is ſufficient for theſe things?</hi> hitherto as it were, an<g ref="char:EOLhyphen"/>ſwer'd, <hi>not I Lord, not I,</hi> I would not be <hi>excuſed</hi> from being a <hi>Preacher,</hi> for I love it; yet would feign be excuſed from being a <hi>Pa<g ref="char:EOLhyphen"/>ſtor,</hi> For I <hi>fear</hi> it; Now anſwers God's queſtion to the Prophet, <hi>Whom ſhall I ſend? here am I, ſend me.</hi> 
+               <note place="margin">
+                  <hi>Iſa.</hi> 6.8.</note> 
+               <q rend="inline">
+                  <hi>I think, few ever un<g ref="char:EOLhyphen"/>dertook the feeding of a Flock of Chriſt with lower Thoughts of themſelves,
+<pb n="22" facs="tcp:100800:15"/> yet with more humble ex<g ref="char:EOLhyphen"/>pectation of Help and Suc<g ref="char:EOLhyphen"/>ceſs from the great Shep<g ref="char:EOLhyphen"/>herd than he did.</hi>
+               </q> The Lord Jeſus ſpent the whole Night in Prayer before he ordained his Twelve Apoſtles, compare <hi>Luke</hi> with <hi>Mark.</hi>
+               <note place="margin">
+                  <hi>Luke</hi> 6.12. <hi>Mar.</hi> 3.14.</note> The manifold ſuſ<g ref="char:EOLhyphen"/>pence of this Servant of Chriſt, plainly implies, that <hi>he ſpent a good part of many Nights and Days,</hi> if not <hi>Weeks</hi> and <hi>Months,</hi> perhaps <hi>Years</hi> in <hi>fervent</hi> Prayer, and <hi>con<g ref="char:EOLhyphen"/>ſcientious</hi> Thoughtfulneſs about his Ordination.</p>
+            <p>But now as he durſt no <hi>ſooner</hi> venture, ſo he dares no <hi>longer</hi> de<g ref="char:EOLhyphen"/>lay. Thus, his <hi>wary</hi> entring into this <hi>Office</hi> preſages a careful fulfil<g ref="char:EOLhyphen"/>ling of it. <q rend="inline">
+                  <hi>He now ſtudied the Neceſſities of his
+<pb n="23" facs="tcp:100800:15"/> Hearers, and did ſuit his Sermons accordingly, to this end did he frequently converſe with the moſt ig<g ref="char:EOLhyphen"/>norant of his Neighbours, that he might know what their Apprehenſions, Ob<g ref="char:EOLhyphen"/>jections, and Prejudices were, about, or againſt a ſerious Holy Life; ac<g ref="char:EOLhyphen"/>cordingly did he frame his Diſcourſes to inform, con<g ref="char:EOLhyphen"/>vince, and perſwade them.</hi>
+               </q> He was <q rend="inline">
+                  <hi>Conſtant</hi>
+               </q> and <q rend="inline">
+                  <hi>Zea<g ref="char:EOLhyphen"/>lous</hi>
+               </q> in this weighty Work. <q rend="inline">
+                  <hi>On thoſe days when he
+<pb n="24" facs="tcp:100800:16"/> had aſſiſtance in his own Congregation, he would ride out and Preach where there was neceſſity.</hi>
+               </q>
+            </p>
+            <p>A while after this, when he was ſettled, as much as in thoſe times could be expected, he was near marrying a young Gentlewoman, but before the time appointed for the Marriage Chriſt took her to himſelf.</p>
+            <p>About two Years after that, he married a gracious Widow, by whom he had <hi>ſeveral</hi> Children, but they <hi>all</hi> died young: but her having living Children, was a Mer<g ref="char:EOLhyphen"/>cy ſhe never enjoyed by her former Husband; but had only abortive Births. The firſt living Child he had, I have cauſe to remember, the more then ordinary workings of his gracious Soul about its ſo<g ref="char:EOLhyphen"/>lemn <hi>Dedication</hi> to God by <hi>Bap<g ref="char:EOLhyphen"/>tiſm,</hi>
+               <pb n="25" facs="tcp:100800:16"/> what the <hi>inward</hi> workings of his Soul were is only known to the <hi>Heart-ſearching</hi> God, but <q rend="inline">
+                  <hi>ſo much burſt out beyond his intention to be taken notice of, that I never did ſee before, nor ever expect to ſee the like again;</hi>
+               </q> I have many a time reflected on it with admiration: There you might have ſeen the <q rend="inline">
+                  <hi>Covenant im<g ref="char:EOLhyphen"/>prov'd, and what might well make you more ſe<g ref="char:EOLhyphen"/>rious ever after, in the Celebration of that Ordi<g ref="char:EOLhyphen"/>nance:</hi>
+               </q> But I'll ſay no more of this, becauſe I know not whether any beſides my ſelf took notice of it.</p>
+            <pb n="26" facs="tcp:100800:17"/>
+            <p>Some expected that now he had a Family to provide for, his Charitable expences muſt be re<g ref="char:EOLhyphen"/>trenched; the Stream muſt run in another Channel; but they were miſtaken; thoſe that moſt narrow<g ref="char:EOLhyphen"/>ly obſerved his conſtant Charity, could perceive no abatement at all, but rather an enlargement, that <hi>the addition to his eſtate procured an addition to his Charity.</hi> And here give me leave to tell you, that this (next to my inexcuſable Lazineſs) is <hi>the true reaſon of re<g ref="char:EOLhyphen"/>tarding theſe Papers,</hi> there was ſomewhat of Charity, <q rend="inline">
+                  <hi>very ſin<g ref="char:EOLhyphen"/>gular, and extraordinary,</hi>
+               </q> about this time, which he, in his great Humility acquainted me with, I will not ſay adviſed with me, for he was fitter to adviſe me, than I him; this hath wholly ſlipt my Memory all but the undiſtinct Notions that there was ſuch a
+<pb n="27" facs="tcp:100800:17"/> thing, though ſome Circumſtances made it impracticable. I con<g ref="char:EOLhyphen"/>feſs I have made all the enquiry I can, by Letters, and other ways, yet I cannot retrieve it; if I could, it would be the moſt conſiderable Inſtance in this <hi>confuſed</hi> Story, but I muſt wave it.</p>
+            <p>After ſome years in this place he was morally forced to another; the Arguments for his remove took hold of his <hi>Conſcience,</hi> and thoſe that did ſo, he was not able to reſiſt, tho' never ſo much a<g ref="char:EOLhyphen"/>gainſt his Inclination: There he continued till driven away by per<g ref="char:EOLhyphen"/>ſecution, not only from them, but from the County. Some while he wandered about from place to place, like his Maſter, he went up and down doing good, and God was with him.</p>
+            <pb n="28" facs="tcp:100800:18"/>
+            <p>Could I hope that it would pro<g ref="char:EOLhyphen"/>voke to holy <hi>Emulation,</hi> not to ſinful <hi>Prejudice,</hi> I would be more particular, in naming the ſeveral <hi>Counties,</hi> and the ſeveral <hi>Places,</hi> in ſuch Counties where he ſpread the Goſpel, to the apparent detri<g ref="char:EOLhyphen"/>ment of the <hi>Devil</hi>'s Kingdom, and advancement of <hi>Chriſt</hi>'s, and he <hi>comfortably ſaw a good Succeſs of his Miniſtry where-ever he came.</hi>
+            </p>
+            <p>But after many weariſome Jour<g ref="char:EOLhyphen"/>neys, and tireſome Labours, his ill frame of Health neceſſitated him to a more fixed Station, near <hi>London;</hi> where he was greatly im<g ref="char:EOLhyphen"/>portuned to exerciſe his Miniſtry, to which he yielded, upon theſe Conditions; Namely, <hi>to be at li<g ref="char:EOLhyphen"/>berty three Sabbaths in the Month, to preach where he ſhould find need,</hi> they being ſupplied by <hi>two</hi> other worthy Miniſters, and afterwards by <hi>one.</hi> And <hi>this he did 'till bo<g ref="char:EOLhyphen"/>dily
+<pb n="29" facs="tcp:100800:18"/> Diſtempers diſenabled him,</hi> tho' he was often told it was im<g ref="char:EOLhyphen"/>poſſible to hold out ſuch a Courſe of Labour, yet <hi>his zeal was ſuch, that he could not forbear attempting beyond his ſtrength, tho' to prolong his life.</hi>
+            </p>
+            <p>That lingring Diſtemper which brought him to his Grave, firſt ſeized him upon a wet Journey, about his Maſter's Work, upon which, he was ſo intent, that he <note place="margin">
+                  <hi>Acts</hi> 20.24.</note> 
+               <hi>counted not his Life dear unto him;</hi> It was his <hi>only joy to fulfil the Mi<g ref="char:EOLhyphen"/>niſtry which he receiv'd of the Lord Jeſus, to teſtifie the Goſpel of the Grace of God.</hi>
+            </p>
+            <p>Thus I have run over his Courſe of Life, give me leave to be a little more particular in ſome, <hi>I wiſh I might not ſay</hi> unparalel<g ref="char:EOLhyphen"/>led Singularities.</p>
+            <pb n="30" facs="tcp:100800:19"/>
+            <p>
+               <note place="margin" type="runSum">Preaching.</note> His Preaching was remarkable, both in what it was not, as well as in what it was. <hi>It was not with enticing words of Man's Wiſdom,</hi> 
+               <q rend="inline">
+                  <hi>He did as induſtriouſly avoid as others do induſtriouſly ſtudy Declamations for Sermons;</hi>
+               </q> He took <q rend="inline">
+                  <hi>more pains</hi>
+               </q> for his <q rend="inline">
+                  <hi>Sermons,</hi>
+               </q> both on his <q rend="inline">
+                  <hi>Knees,</hi>
+               </q> and in his <q rend="inline">
+                  <hi>Study,</hi>
+               </q> then moſt o<g ref="char:EOLhyphen"/>thers, that he might Preface all he ſaid with, <hi>thus ſaith the Lord.</hi>
+            </p>
+            <p>
+               <q rend="inline">
+                  <hi>He conſtantly kept one day in the Week, little o<g ref="char:EOLhyphen"/>ther ways than a Faſt for his Lord's-day's work: He would never offer ei<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:100800:19"/> to God or Man what coſt him nought; His Praying was always fer<g ref="char:EOLhyphen"/>vent, his Preaching al<g ref="char:EOLhyphen"/>ways clear and vehement, his words well fitted to his Matter, and his Matter well choſen for Conviction, and perſwaſion, for Conver<g ref="char:EOLhyphen"/>ſion and Edification: And when did he Preach any one Sermon without ſome of theſe Effects?</hi>
+               </q> Bear with this Digreſſion, to give you a ſingle Inſtance of Advice he ſome Years after gave to a young Preacher. You will need a double Portion of the Bleſſed Spirit to guide, and
+<pb n="32" facs="tcp:100800:20"/> bear you up againſt the Tempta<g ref="char:EOLhyphen"/>tions you will meet with from the ſnareling World. 'Tis hard to be lifted up by the Lord and not to lift up our ſelves; your Watch muſt be conſtant, and your Pray<g ref="char:EOLhyphen"/>ers frequent and fervent, or you will forſake your firſt Love, and wax careleſs and carnal; — and afterwards warned him againſt two extreams, <hi>viz,</hi> Pride and Dif<g ref="char:EOLhyphen"/>fidence, ſaying, if Miniſters were to Preach before a learned and large Auditory, they were too apt to be diffident, more concern<g ref="char:EOLhyphen"/>ed at the Preſence of Man than of God, and on the other hand, if the Aſſembly was popular and mean, and did appear affected; how hard do they find it to ſubdue Pride. But to return, God bleſſed his Labours where-ever he went, a <hi>ſpecial Pre<g ref="char:EOLhyphen"/>ſence of God accompanied him ni all his <g ref="char:V">Ʋ</g>ndertaking:</hi> For he Preach'd as well <hi>out</hi> of the Pulpit as <hi>in</hi> it;
+<pb n="33" facs="tcp:100800:20"/>
+               <q rend="inline">
+                  <hi>It was ſeldom that any one could ſpeak to him, but he would hook in ſomething of Religion ere they parted.</hi>
+               </q>
+            </p>
+            <p>When he went into any Houſe, he quickly enquired what enter<g ref="char:EOLhyphen"/>tainment <hi>Religion</hi> met with there, he ſcarce ſpake to any, but he preſently inſinuated ſomething of <hi>Practical Godlineſs,</hi> for he always declined ſpeaking of <hi>Chriſtians dif<g ref="char:EOLhyphen"/>ferent Practice as to Modes of Wor<g ref="char:EOLhyphen"/>ſhip,</hi> when any ſuch things were ask'd him, he would if poſſible put it off with ſomething elſe, or tell them other Mens Judgments rather than his own; and thro' gracious exerciſe he had a notable Dexterity in putting by <note place="margin">
+                  <hi>Tit.</hi> 3.9.</note> 
+               <hi>unprofitable Questions, i. e.</hi> Queſtions whereby we can profit nothing, and ta<g ref="char:EOLhyphen"/>king occaſion thence, to inculcate
+<pb n="34" facs="tcp:100800:21"/> ſomething of real moment. He did not this only in a cuſtomary way of Diſcourſe, as that which he was moſt habituated to, but <hi>out of the abundance of his heart his mouth ſpake.</hi> His general Con<g ref="char:EOLhyphen"/>verſation towards all was Pious, and Pleaſant, he uſed <hi>innocent</hi> mirth as an inviting <hi>Vehicle</hi> to convey his pious Inſtructions. He was plentifully ſtored with very uſeful Narratives of Men, both good and bad; he gathered up excellent Remarks upon the Tem<g ref="char:EOLhyphen"/>per and Carriage of Mankind, which he made uſe of, not only to divert, but to inſtruct; for he would ſometimes pleaſantly droll upon the Miſcarriages of ſome which he thought would not digeſt a direct, and plain Reproof; he that told me this, lived in the Houſe with him, and ſaith, <hi>He di<g ref="char:EOLhyphen"/>ligently obſerv'd, and doth not re<g ref="char:EOLhyphen"/>member,</hi> 
+               <q rend="inline">
+                  <hi>That ever he heard
+<pb n="35" facs="tcp:100800:21"/> him rehearſe ſo much as one Story without a manifeſt Deſign either to exhort or warn, or gently to rebuke thoſe to whom it was directed:</hi>
+               </q> And this was not only an inſtance of his <q rend="inline">
+                  <hi>candid Temper,</hi>
+               </q> but of his <q rend="inline">
+                  <hi>great Diſcretion,</hi>
+               </q> for the Me<g ref="char:EOLhyphen"/>mory is more apt to retain affect<g ref="char:EOLhyphen"/>ing <hi>Stories,</hi> than meer <hi>Precepts,</hi> and the Conſcience will make a <hi>direct</hi> Application of an <hi>indirect</hi> Re<g ref="char:EOLhyphen"/>proof: And if the Story be in<g ref="char:EOLhyphen"/>tended to excite Duty, it doth not only imply a <hi>Precept,</hi> but ſhews the <hi>Precedent,</hi> which is a great Motive to Induſtry.</p>
+            <pb n="36" facs="tcp:100800:22"/>
+            <p>And tho' he was of too ſweet a Temper, willingly to diſpleaſe any, yet he could not but deal ſo plain<g ref="char:EOLhyphen"/>ly with thoſe he converſed with, that when he ſaw any thing to be reprov'd, he would not in a <hi>Compliment</hi> forbear them, but <hi>re<g ref="char:EOLhyphen"/>buke them ſharply, that they might be ſound in the Faith.</hi> I'll ſingle out one inſtance of a Perſon who was very tender of him in his weakneſs, and expreſſed a more then ordinary concernedneſs for his health; to whom he ſpake to this effect, <hi>You are thus kind to me, you ſeem to be very religious, but I fear you are not hearty, nor ſound; and then mentioned the grounds of his fear, and urged a through Conviction.</hi>
+            </p>
+            <p>He did not only <hi>himſelf</hi> Preach with a more than uſual Zeal; but, <q rend="inline">
+                  <hi>I ſhould welcome him who could tell me of any other
+<pb n="37" facs="tcp:100800:22"/> who has contributed to the ſetting up or building ſo many Meeting-places, and contributed ſo largely to the ſupplying them with ſuch Miniſters, Work men that need not to be a<g ref="char:EOLhyphen"/>ſhamed as he hath done: He never thought much of any Charge ſo he could but ſerve Chriſt and Souls.</hi>
+               </q>
+            </p>
+            <p>I am loth to mention what <hi>un<g ref="char:EOLhyphen"/>reaſonable</hi> Oppoſition he hath met with in ſome places, where they endeavour'd to <hi>eclipſe</hi> his Reputa<g ref="char:EOLhyphen"/>tion, which ſoon <hi>ſhone</hi> more clear<g ref="char:EOLhyphen"/>ly: But I will rather incur being cenſured for a <hi>Baulk</hi> in my Narra<g ref="char:EOLhyphen"/>tive,
+<pb n="38" facs="tcp:100800:23"/> then for mentioning what I hope the Perſons guilty, have repented of, which if they have not, the Lord give them Repen<g ref="char:EOLhyphen"/>tance and Pardon: <q rend="inline">
+                  <hi>And go on to bleſs thoſe places with flouriſhing Churches, where the Devil ſtruggled moſt to keep his dominion: He lived to ſee it, to his great Satisfaction.</hi>
+               </q> May the Har<g ref="char:EOLhyphen"/>veſt anſwer the Seed time to the Salvation of Thouſands.</p>
+            <p>
+               <note place="margin" type="runSum">Catechi<g ref="char:EOLhyphen"/>ſing.</note> Next to his Preaching I'll men<g ref="char:EOLhyphen"/>tion his <hi>Catechiſing,</hi> which in ſome reſpects, he preferr'd before it, ſaying, if he were to be <hi>confined</hi> to <hi>Preaching</hi> or <hi>Catechiſing,</hi> and might not do both, he would <hi>chooſe</hi> Ca<g ref="char:EOLhyphen"/>techiſing. He had a more than ordinary Dexterity at inſinuating
+<pb n="39" facs="tcp:100800:23"/> Truths, not only into the Heads, but God, hereby teſtifying his Approbation of his Zeal, impreſ<g ref="char:EOLhyphen"/>ſed it on the Hearts of <hi>greater Numbers then I dare mention,</hi> leſt it ſhould ſeem incredible.</p>
+            <p>He had ſo throughly <hi>digeſted</hi> the whole Body of Divinity; and ſo throughly acquainted himſelf with all ſorts of Catechiſms, and ſo <hi>continually</hi> exerciſed himſelf in <hi>ſifting</hi> and <hi>inſtructing all he conver<g ref="char:EOLhyphen"/>ſed with,</hi> that he <hi>experimentally</hi> knew how to propoſe <hi>ſuch</hi> queſti<g ref="char:EOLhyphen"/>ons as were <hi>ſutable</hi> to the <hi>Capaci<g ref="char:EOLhyphen"/>ties</hi> and <hi>Neceſſities</hi> of all ſorts of Perſons, ſo as to diſcourage none but to benefit all. He would ask queſti<g ref="char:EOLhyphen"/>ons of all who he thought capable to inform him, and his Humility made him willing to be any Man's Diſciple, what method was moſt likely to be moſt effectual. He parcelled out the Catechiſm into
+<pb n="40" facs="tcp:100800:24"/> ſeveral Sections, and ſent them a<g ref="char:EOLhyphen"/>bout to his Brethren, requeſting them to write down what they judged pertinent, and proper to be propoſed to the Catechis'd Per<g ref="char:EOLhyphen"/>ſons for the furthering of their Knowledge and their Eſtabliſh<g ref="char:EOLhyphen"/>ment in all things neceſſary to be known and practiſed.</p>
+            <p>He had a ſingular Dexterity at inſinuating himſelf into the Affe<g ref="char:EOLhyphen"/>ctions of young People, and over<g ref="char:EOLhyphen"/>coming their unwillingneſs to be inſtructed. Some that were more in years, who though they were aſhamed of their Ignorance, but were more aſhamed to learn at that Age, yet were prevailed with, by his importunity, to come to this publick Exerciſe: And where In<g ref="char:EOLhyphen"/>treaties and Arguments would not do, he would hire them, by gi<g ref="char:EOLhyphen"/>ving them new Bibles (many whereof were gilt, and bound in Turky-Leather) or good Books,
+<pb n="41" facs="tcp:100800:24"/> ſo that he hath acknowledged with thankfulneſs to God, that he ſel<g ref="char:EOLhyphen"/>dom failed to gain at laſt, thoſe who were very averſe at firſt. And though the Inſtruction of young and ignorant People is the uſual deſign in Catechiſing; yet he was ſo full and accurate in il<g ref="char:EOLhyphen"/>luſtrating the ſeveral Heads of Re<g ref="char:EOLhyphen"/>ligion, the aged and more im<g ref="char:EOLhyphen"/>proved Perſons did frequently at<g ref="char:EOLhyphen"/>tend his Catechetical Exerciſes, with great ſatisfaction and delight: For his cuſtom in reading not on<g ref="char:EOLhyphen"/>ly bodies of Divinity, but practi<g ref="char:EOLhyphen"/>cal Books, was to collect what was moſt valuable in them, and refer them to their proper places in his Catechiſm, which was inter<g ref="char:EOLhyphen"/>leaved for that purpoſe, whereby he was ready furniſht to give a grateful Entertainment, as well to the moſt judicious, as to the meaner Chriſtians. He would of<g ref="char:EOLhyphen"/>ten expreſs how difficult as well as
+<pb n="42" facs="tcp:100800:25"/> neceſſary this Work was; and therefore he took much pains to have the moſt clear underſtanding of the Doctrine of the Goſpel: He was a diligent Obſerver of the Practice, Method, and Suc<g ref="char:EOLhyphen"/>ceſs of his reverend Brethren in this Matter, all which he impro<g ref="char:EOLhyphen"/>ved, and his Succeſs was anſwer<g ref="char:EOLhyphen"/>able to ſuch preparations and en<g ref="char:EOLhyphen"/>deavours: He would frequently ſay, <hi>That he never experienced more of the Aſſiſtance of God in any Duty than in this:</hi> God making him an inſtrument of conveying very much knowledge hereby, ſome that had been under his in<g ref="char:EOLhyphen"/>ſtruction have proved moſt judici<g ref="char:EOLhyphen"/>ous and able Chriſtians: In ſhort, he ſaw ſo much <hi>need,</hi> and ſo much <hi>good</hi> effect of his Labours in this way, that he would ſay, <q rend="inline">
+                  <hi>While he had breath he would
+<pb n="43" facs="tcp:100800:25"/> ſpend it in Catechi<g ref="char:EOLhyphen"/>ſing</hi>
+               </q>
+            </p>
+            <p>Beſides his own <hi>weekly</hi> Catechi<g ref="char:EOLhyphen"/>ſing, and Catechiſing in all the <hi>Schools which he erected;</hi> He <q rend="inline">
+                  <hi>hired ſome Perſons in di<g ref="char:EOLhyphen"/>ſtant places to Catechiſe all Children and others who were willing to learn; and once a Month or oftner, He rode about from place to place to Catechiſe them himſelf;</hi>
+               </q> And then to incou<g ref="char:EOLhyphen"/>rage thoſe who did well, he gave ſome <hi>Reward,</hi> either in Books or Money, according to the Quality of the Perſons. And <hi>to incourage Parents and Maſters to ſend their Children or Servants,</hi> he preſented them with ſome Books curiouſly
+<pb n="44" facs="tcp:100800:26"/> bound and gilt, that might be moſt acceptable, and if they were <q rend="inline">
+                  <hi>Poor he gave them many more than they could have earned in the time of their Learning.</hi>
+               </q> And his Diſcourſe with <hi>Parents,</hi> and <hi>Maſters</hi> was <hi>really Catechiſtical,</hi> though ſo ma<g ref="char:EOLhyphen"/>naged, that they could not think themſelves <hi>diſparag'd</hi> by ſuch In<g ref="char:EOLhyphen"/>ſtructions. <hi>He had a way of ſo propoſing his Queſtions, that the Queſtion ſhould lead them to, or furniſh them with an Anſwer.</hi>
+            </p>
+            <p>I have occaſionally heard him examin a Boy; his Queſtions were ſuch, as I never heard before, yet ſo <hi>inſtructively worded, that any one of ordinary capacity, who took but notice of the Queſtion, could not miſs the right Anſwer.</hi> And tho' his way of trying their Knowledge was more <hi>critical</hi> than others, yet
+<pb n="45" facs="tcp:100800:26"/> through <hi>Grace</hi> and <hi>Exerciſe,</hi> he had attained ſuch a Skill for it, that his Examinations were not only <hi>acceptable,</hi> but <hi>deſirable,</hi> where-ever he came: For he car<g ref="char:EOLhyphen"/>ried with him prevailing Motives that were <hi>morally</hi> forcible to all ſorts of Perſons. <hi>That when he viſited his Schools, the Children would rejoyce more then for a Play<g ref="char:EOLhyphen"/>day.</hi> When he preached in Neigh<g ref="char:EOLhyphen"/>bouring Congregations, <hi>they wait<g ref="char:EOLhyphen"/>ed for his Catechiſing as earneſtly as Beggars for an Alms.</hi>
+            </p>
+            <p>When he viſited any Family, they expected his Inſtruction, as a <hi>Sucking Child the Breaſt.</hi>
+            </p>
+            <p>Yet all this did not ſuffice him but all thoſe Miniſters towards whom he contributed maintenance, <hi>which were not a few,</hi> he engaged them to ſet up Catechiſing, and en<g ref="char:EOLhyphen"/>quired how it thrived.</p>
+            <pb n="46" facs="tcp:100800:27"/>
+            <p>And all thoſe Miniſters with whom he converſed, he provok'd to ſet up Catechiſing.</p>
+            <p>He gave away, I can't ſay, how many thouſands of Catechiſms, many hundreds with Expoſitions upon them; neither did he con<g ref="char:EOLhyphen"/>ſine his Catechumeniſts to the Aſ<g ref="char:EOLhyphen"/>ſemblies Catechiſm (though <q rend="inline">
+                  <hi>the Lord Primate of <hi>Ar<g ref="char:EOLhyphen"/>magh</hi> ſaid 'twas the beſt Extant</hi>
+               </q>) but he gave very many of Doctor <hi>Cumber</hi>'s, and the Principles of the Chriſtian Reli<g ref="char:EOLhyphen"/>gion cleared, and confirmed by the <hi>Articles</hi> and <hi>Homilies</hi> of the Church of <hi>England</hi> by Mr. <hi>Thomas Adams.</hi>
+            </p>
+            <p>In ſhort, he did not content himſelf to receive a <hi>Parrot</hi> like anſwer, to any form of <hi>Words</hi> whatſoever, but his conſtant En<g ref="char:EOLhyphen"/>deavours were to make them un<g ref="char:EOLhyphen"/>derſtand
+<pb n="47" facs="tcp:100800:27"/> the <hi>Things.</hi> Frequently and greatly he bewailed the <q rend="inline">
+                  <hi>lamentable Ignorance that overſpreads the Nation.</hi>
+               </q> He did often pathetically cry out you do not <hi>believe,</hi> you can <hi>hard<g ref="char:EOLhyphen"/>ly</hi> conceive <hi>the groſs Ignorance of this great City.</hi> The palpable Darkneſs of this <hi>valley of Viſion.</hi> Many Perſons he diſcovered to be <hi>abſurdly</hi> ignorant under <hi>conceited</hi> Knowledge. I'll give but one in<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>When he was inquiring into the Knowledge of a Self-conceited old Woman of a different way, ſhe ſaid, ſhe knew very well, and un<g ref="char:EOLhyphen"/>derſtood the whole Bible, only knew not what to make of the Vi<g ref="char:EOLhyphen"/>ſion of the white Horſe in the <hi>Revelation,</hi> ſaid he, you are a hap<g ref="char:EOLhyphen"/>py Woman, would I could ſay ſo: But pray how do you underſtand that of <hi>Canaan,</hi> being a Land
+<pb n="48" facs="tcp:100800:28"/> flowing with Milk and Honey? What do you think, there was ſuch abundance of it, that it flow<g ref="char:EOLhyphen"/>ed upon the Land, as Water doth? Yes, ſure ſaid ſhe, how could it be otherways? I ſee now, ſaid he, how well you underſtand the Scriptures, and thence he took occaſion to convince and inſtruct her.</p>
+            <p>To one whom he urged to <hi>Ca<g ref="char:EOLhyphen"/>techiſe</hi> Children, who ſaid, he ſaw little fruit of it among young ones, He replied, never talk ſo, if you cannot make them bear <hi>fruit,</hi> you may make them bear <hi>leaves;</hi> When another ſaid they ſaw but little re<g ref="char:EOLhyphen"/>main of it; he call'd for a <hi>Sieve,</hi> and ſome Water, at firſt they thought him not in earneſt, but when he perſiſted to call, they brought it, he bid them pour the Water into the Sieve, which when they had done, Look here, ſaid he, <hi>moſt of it is run through, but ſome
+<pb n="49" facs="tcp:100800:28"/> remains, here's a Dew, a Moi<g ref="char:EOLhyphen"/>ſture.</hi>
+            </p>
+            <p>In ſhort, I'll only ſay, <q rend="inline">
+                  <hi>I never heard of any that took ſo much Pains, Coſt, and Care about Catechiſing as he: His Heart was in it, living and dying.</hi>
+               </q>
+            </p>
+            <p>
+               <note place="margin" type="runSum">His Chari<g ref="char:EOLhyphen"/>ty.</note> Next to this, take a view of his <hi>Charity;</hi> And here, tho' I can give but general Heads far ſhort of its true extent, both as to <hi>Places,</hi> and <hi>Times,</hi> Poſterity will reap the Fruits of his Charity, more than I may mention; yea I wiſh it may not be more, than I can perſwade any to imitate; here let me mention that, under ſeve<g ref="char:EOLhyphen"/>ral Heads, which if you think your Charity can't run in ſo ma<g ref="char:EOLhyphen"/>ny Channels, yet chuſe what likes ye beſt, but <hi>imitate ſome of them.</hi>
+            </p>
+            <pb n="50" facs="tcp:100800:29"/>
+            <p>He evidenced himſelf to be the genuine Son of his Heavenly Fa<g ref="char:EOLhyphen"/>ther, by doing good to all, to the Bodies and to the Souls of all man<g ref="char:EOLhyphen"/>ner of Perſons, though with great <hi>difference</hi> and <hi>judgment.</hi>
+            </p>
+            <p>I'll begin with the <hi>loweſt,</hi> who leaſt taſted of his Charity; and indeed they leaſt ſought it, for I queſtion not if they would not have ſpill'd the Sauce, they might have had the Meat, if they would but have accepted the Counſel with which he ſauced his Alms, <hi>for I think I may peremptorily ſay,</hi> 
+               <q rend="inline">
+                  <hi>He never gave any thing without ſutable and ear<g ref="char:EOLhyphen"/>neſt Inſtruction,</hi>
+               </q> thoſe who accepted that might have any thing they deſired. This premi<g ref="char:EOLhyphen"/>ſed my firſt inſtance ſhall be this.</p>
+            <pb n="51" facs="tcp:100800:29"/>
+            <p n="1">1. When <hi>wicked</hi> wretches have come to him to <hi>beg</hi> or <hi>borrow</hi> Money; after he had taken ſome pains with them, to convince and reform them he hath given, or lent to them, hoping it might be at leaſt a <q rend="inline">
+                  <hi>hiring of them to be leſs vitious.</hi>
+               </q> But he had feweſt, tho' ſome he had of theſe Cuſtomers. <hi>Profligate Perſons ſhun'd coming near him, their Con<g ref="char:EOLhyphen"/>ſciences frighting them, with his charming conviction.</hi> 'Twas <hi>Chriſt</hi>'s Poor towards whom his Charity flowed.</p>
+            <p n="2">2. <hi>Neceſſitous Perſons</hi> or <hi>Fami<g ref="char:EOLhyphen"/>lies</hi> always found his <hi>Heart,</hi> and <hi>Hand</hi> open, for their relief, and that not <hi>dribbling</hi> Alms, becauſe they would not be anſwered with<g ref="char:EOLhyphen"/>out giving them ſomething, but the <hi>ſomething he gave them was always ſomewhat anſwerable to their neceſſities,</hi> having an extra<g ref="char:EOLhyphen"/>ordinary
+<pb n="52" facs="tcp:100800:30"/> value for real Saints, though they were never ſo poor and mean.</p>
+            <p n="3">3. He took <hi>poor Children</hi> from indigent Parents, and wholly main<g ref="char:EOLhyphen"/>tained them, put them to <hi>Trades,</hi> and ſet them up in the World: Or, <q rend="inline">
+                  <hi>if they were capable of a more liberal Education they had it, being a great Encourager of young Men to the Miniſtry:</hi>
+               </q> I cannot forbear telling you of one, whom God took to glory, a little before he took himſelf, who was a Can<g ref="char:EOLhyphen"/>didate for the Miniſtry, of <hi>curious Parts, polite Learning, ſerious Godlineſs, an excellent Preacher, of moſt obliging Converſation;</hi> but we muſt <note place="margin">
+                  <hi>Pſal.</hi> 39.9.</note> 
+               <hi>be dumb with ſilence, for God hath done it.</hi> Several others he hath been a <hi>Foſter Father</hi> to.</p>
+            <pb n="53" facs="tcp:100800:30"/>
+            <p n="4">4. He ſet up petty Schools in ſeveral places to teach Children to read and to learn their Catechiſm; and he contrived it to be <hi>double Charity</hi> namely to the <hi>Teacher</hi> and to the <hi>Learner.</hi>
+            </p>
+            <p>And ſince, he came nearer <hi>Lon<g ref="char:EOLhyphen"/>don</hi> he hath hired a Writing Ma<g ref="char:EOLhyphen"/>ſter to come into ſome Families, to teach ſome Servants, who had no time to go to School, to learn to Write, and caſt Accompts.</p>
+            <p>
+               <q rend="inline">
+                  <hi>Any one who applied him<g ref="char:EOLhyphen"/>ſelf to him, by himſelf, or by any one elſe, though a meer Stranger, whoſe face was ſet Heaven-ward, who was poor and willing to learn, thoſe were Arguments ſufficient to
+<pb n="54" facs="tcp:100800:31"/> draw out his Heart and Purſe for their Inſtructi<g ref="char:EOLhyphen"/>on, in anything they were capable of attaining for further uſefulneſs.</hi>
+               </q> 'Tis next to impoſſible to name the Inſtances of his <hi>Soul</hi> Charity, 'twas as <hi>dif<g ref="char:EOLhyphen"/>fuſive</hi> yet as <hi>ſecret</hi> as 'twas poſ<g ref="char:EOLhyphen"/>ſible. I'll mention one inſtance among many. <hi>I take,</hi> ſaid he, <hi>more delight in thinking this one Man</hi> (he was ſpeaking of) <hi>will e're long be ſerviceable to the World, then if any had given my ſelf a hundred Pounds.</hi>
+            </p>
+            <p n="5">5. His ſpreading of the moſt <hi>Awakening, Convincing, Practical</hi> Books, to provoke, and encourage ſerious Godlineſs. This is one of the things that's hardly credible, not only Books of ſmall price, as <hi>Thouſands, if not Ten thouſands</hi> of Catechiſms, many of them with
+<pb n="55" facs="tcp:100800:31"/> Expoſitions; but bigger Books I cannot ſay how many thouſands of <hi>Sheppard's Sincere Convert,</hi> Mr. <hi>Richard Allein's Vindiciae Pietatis,</hi> Mr. <hi>Joſeph Allein</hi> of <hi>Converſion</hi> and his <hi>Life;</hi> Several of Mr. <hi>Bax<g ref="char:EOLhyphen"/>ter</hi>'s Treatiſes, his <hi>Call to the <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>converted,</hi> his <hi>Now, or Never,</hi> his <hi>Directions to prevent miſcarrying in Converſion,</hi> his <hi>Saint's Reſt, &amp;c.</hi> with ſeveral others. One thing I had almoſt forgot about Mr. <hi>Joſeph Allein</hi>'s Treatiſe of <hi>Converſion</hi> which ſeveral <hi>(of whom he was the chief)</hi> agreed for an Impreſſion to be given away, (they altering the <hi>Title</hi> into <hi>[A Guide to Heaven]</hi> (to make it more acceptable) <q rend="inline">
+                  <hi>He paid down <hi>50 l.</hi> at firſt as an Earneſt, be<g ref="char:EOLhyphen"/>ſides more afterwards for that Impreſſion of Twenty
+<pb n="56" facs="tcp:100800:32"/> Thouſand to be diſperſed through the Kingdom of <hi>England,</hi> and Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi>
+                  </hi>
+               </q> and (I think I may ſay) there hath been Twen<g ref="char:EOLhyphen"/>ty Thouſand more printed ſince to be ſold at under rates: And he gave not only the Writings of Non-Conformiſts, but of Con<g ref="char:EOLhyphen"/>formiſts, namely <hi>Pink</hi>'s Tryal of Sincere Love to Chriſt, <hi>Caley</hi> of Eternity, <hi>Wade</hi> of Redemption of Time, <hi>Dent</hi>'s Plain-man's Path<g ref="char:EOLhyphen"/>way to Heaven, <hi>Scudder</hi>'s Daily-walk, <hi>Reiner</hi>'s Precepts, <hi>&amp;c.</hi> But he gave Books of greater price; As the <hi>Books of Martyrs</hi> in Three Volumes, <hi>Charnock</hi>'s Works in Two Volumes, ſeveral <hi>Annotators</hi> on the <hi>Bible,</hi> ſeveral <hi>Commenta<g ref="char:EOLhyphen"/>tors</hi> on the Holy Scriptures, ſe<g ref="char:EOLhyphen"/>veral <hi>neceſſary Libraries to young Students and Candidates for the
+<pb n="57" facs="tcp:100800:32"/> Miniſtry.</hi> There was no place where he came, and he was pro<g ref="char:EOLhyphen"/>videntially <q rend="inline">
+                  <hi>drawn</hi>
+               </q> or <q rend="inline">
+                  <hi>driven</hi>
+               </q> into many Counties, but he <hi>ſto<g ref="char:EOLhyphen"/>red the Houſes of all that would accept of his kindneſs with Books of Devotion.</hi> I know not whether ever he gave away any one Book of Controverſie, unleſs it were <hi>Pool</hi>'s <hi>Nullity</hi> of the <hi>Roman</hi> Faith, and his <hi>Dialogue</hi> between a <hi>Popiſh</hi> Prieſt, and an <hi>Engliſh Proteſtant.</hi> He was always for <q rend="inline">
+                  <hi>Promoting down right Practical God<g ref="char:EOLhyphen"/>lineſs.</hi>
+               </q>
+            </p>
+            <p>But above all his <q rend="inline">
+                  <hi>Stratagems</hi>
+               </q> to diſperſe goods Books, I cannot but prefer his Device for the ſpreading of the <q rend="inline">
+                  <hi>Bible,</hi>
+               </q> I can<g ref="char:EOLhyphen"/>not ſay how many <hi>hundreds,</hi> if not <hi>thouſands,</hi> he gave away. But he found this would not reach his
+<pb n="58" facs="tcp:100800:33"/> end, <hi>many would rather be without Bibles than put him upon the Charge of giving them.</hi> Therefore he took this courſe, which ſucceeded to his heart's deſire, <q rend="inline">
+                  <hi>by himſelf, or Friends, he ſold Bibles at Eighteen Pence a Bible to all that deſired them for themſelves, or their Children, or Ser<g ref="char:EOLhyphen"/>vants,</hi>
+               </q> provided, not to ſell them again. And by this means <hi>very</hi> many who refus'd them <hi>gratis,</hi> 
+               <q rend="inline">
+                  <hi>Catcht</hi>
+               </q> at them, at this <q rend="inline">
+                  <hi>under rate,</hi>
+               </q> whereby they were furniſhed with <hi>Bibles,</hi> and <hi>ſomething</hi> returned towards the buying of more, and this is the only trade, he ever drove with Books. He ſaw comfortable Fruits
+<pb n="59" facs="tcp:100800:33"/> of his Liberality in giving <hi>Books</hi> ſome were <hi>converted,</hi> more were <hi>edified</hi> by this ſpiritual Charity; though he did not confine theſe Gifts to the <hi>Poor,</hi> but gave alſo to the <hi>Rich,</hi> both <hi>Bibles, and o<g ref="char:EOLhyphen"/>ther Books, which he had extraor<g ref="char:EOLhyphen"/>dinarily bound, that they might be the more generally accepted,</hi> and he contrived <hi>ſuch</hi> Books to <hi>ſuch</hi> Perſons, that he was ſeldom diſap<g ref="char:EOLhyphen"/>pointed of Succeſs, though ſome<g ref="char:EOLhyphen"/>times he was; to give one inſtance, He once gave <hi>Wade</hi>'s Treatiſe of the Redemption of Time curiouſly bound to a young Miniſter, who at firſt received it kindly; but when he began to read it, he find<g ref="char:EOLhyphen"/>ing Mr. <hi>Baxter</hi> quoted in it, he haſtily returned it, not enduring to read any thing that Mr. <hi>Baxter</hi> had written. But I'll cloſe the Narrative of his giving Books with this Story.</p>
+            <pb n="60" facs="tcp:100800:34" rendition="simple:additions"/>
+            <p>Some Years ſince, when the times were more hazardous to Diſ<g ref="char:EOLhyphen"/>ſenters, <hi>A. N. C.</hi> Miniſter of his acquaintance, being unavoidably neceſſitated to undertake a Journey of above Two hundred Miles in length, when he could not at any reaſonable rates get any Lawyer, or other, to go with him, to adviſe him, in the Difficulties he foreſaw he ſhould meet with; Mr. <hi>Brand ſurprizingly</hi> offered, what could not be <hi>impudently</hi> askt, charitably to go with him, and give him his beſt aſſiſtance: 'Twas not then ſafe to be known to be a Diſſenting Miniſter; he therefore concealed himſelf (though his Friend muſt venture, being known in the Place whither he went) but carried down a conſiderable quantity of Cate<g ref="char:EOLhyphen"/>chiſms and good Books in the Coach with him. And in every <hi>Inn</hi> where he <hi>lodged,</hi> or but <hi>baited</hi> at Noon, he would not be many
+<pb n="61" facs="tcp:100800:34"/> Minutes there before ('twas ſo fa<g ref="char:EOLhyphen"/>miliar to him to inſinuate ſome<g ref="char:EOLhyphen"/>thing for the good of Souls) he would be <hi>fiſhing</hi> out whether <hi>any</hi> was, and <hi>who</hi> was capable and pliable to receive Inſtruction; and if he found any, <hi>he would preſent<g ref="char:EOLhyphen"/>ly faſten upon their Conſciences, gi<g ref="char:EOLhyphen"/>ven them Counſel, and Catechiſms, or other Books according as their caſe required.</hi> At one place, <hi>a Servant was ſo affected, as to go after him</hi> (the Town being ſcituate upon an Hill) <hi>while he walked down hill, before he went into the Coach, begging to be taken with him to <hi>London,</hi> having never heard ſo much about Soul-concerns before, nor ever expecting the like again, unleſs this requeſt were granted:</hi> He promiſed to call there at his return, but the Coach-man <hi>with<g ref="char:EOLhyphen"/>out his knowledge</hi> went back ano<g ref="char:EOLhyphen"/>ther way. At another <hi>Inn,</hi> when he met with a <hi>Youth,</hi> that he found
+<pb n="62" facs="tcp:100800:35"/> capable, he gave him a <hi>Catechiſm,</hi> and promiſed if he would learn it by his <hi>return,</hi> which would be a<g ref="char:EOLhyphen"/>bout a week, <hi>he would give him five Shillings, which he did and had his reward.</hi> At another <hi>Inn,</hi> where he met with a <hi>School-maſter,</hi> he <hi>perſwaded</hi> and <hi>encouraged</hi> him to ſeaſon his Scholars with the know<g ref="char:EOLhyphen"/>ledge of thoſe things, whereby they might be ſaved. The Stock of Books he carried down did not hold out all his Journey, but he ſent down upon his return up, at once as many as coſt above eight Pounds. At one <hi>Inn,</hi> where he gave Books in his going down, ſome of them fell into thoſe hands, who way-laid his coming up, at the time he ſaid he ſhould return, that they might <hi>clap him in Pri<g ref="char:EOLhyphen"/>ſon for ſpreading of Seditious Books</hi> (that is the Character they put upon Mr. <hi>Baxter's Call to the <g ref="char:V">Ʋ</g>nconverted, of which there hath
+<pb n="63" facs="tcp:100800:35"/> been printed as ſome gueſs a Hun<g ref="char:EOLhyphen"/>dred Thouſand,</hi> ſo generally <hi>accept<g ref="char:EOLhyphen"/>able</hi> and <hi>profitable</hi> hath it been; 'tis impoſſible for me to tell you how many have been Converted by it) but here I muſt not <hi>conceal,</hi> the chief Contrivance was againſt the Miniſter, he accompanied and their Deſign againſt him failing (a deſign more full of baſe Ingratitude and Treachery than ever any you heard of, but that is foreign to this account) they contrived this de<g ref="char:EOLhyphen"/>ſign againſt Mr. <hi>Brand,</hi> but God diſappointed them in this alſo, for <hi>the Night before they were to ſet out to return, one of the Coach-Horſes fell ſo lame (not known how) that in the Morning he could hardly be led to watering, and ſo continu<g ref="char:EOLhyphen"/>ed two or three days, till they were weary of waiting for his return, ſo that he paſt the place unmoleſted.</hi> Thus, <note place="margin">
+                  <hi>E<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 8 31.</note> 
+               <hi>the Hand of God was upon him, to deliver him from the hand
+<pb n="64" facs="tcp:100800:36"/> of his Enemies, and of ſuch as laid wait by the way.</hi> God delivered him, without his knowing that he needed any ſuch deliverance. I know not whether ever he knew of the main Contrivance, for that lay undiſcovered ſeveral Years, till the <q rend="inline">
+                  <hi>chief Contriver re<g ref="char:EOLhyphen"/>vealed it under horror of Conſcience, for that and other unſuſpected Abomi<g ref="char:EOLhyphen"/>nations;</hi>
+               </q> only this was at pre<g ref="char:EOLhyphen"/>ſent plainly remarkable, <q rend="inline">
+                  <hi>that a Horſe ſhould be ſuddainly ſo lame as ſcarce to bear being dragg'd to watering, and ſuddainly ſo well, as to go above Two hundred Miles without halting.</hi>
+               </q>
+               <pb n="65" facs="tcp:100800:36"/> One as ſoon as he came into his <hi>Inn</hi> where they intended to have ſeized upon him, askt him; Why he came not the day in the former week, as he mentioned in his go<g ref="char:EOLhyphen"/>ing down? and another dropt it afterwards, that if he had come then, ſome were ready to appre<g ref="char:EOLhyphen"/>hend him for the Books he gave away. Should I add more in<g ref="char:EOLhyphen"/>ſtances, 'twould be more than need. I'll therefore mention ſome of his <hi>Infirmities;</hi> which may ſerve as a Shadow to his ill drawn Picture.</p>
+            <p>As to the World, though he was too wiſe, and prudent to be impoſed upon in his worldly Af<g ref="char:EOLhyphen"/>fairs, yet there was one Snare he frequently run into for many Years, namely, he was not only <hi>charitable</hi> himſelf, but he did ma<g ref="char:EOLhyphen"/>ny times as <hi>Moſes</hi> fetch <hi>Water out of a Rock of Flint,</hi> 
+               <note place="margin">
+                  <hi>Deut.</hi> 8.15.</note> he got ſomething for <hi>charitable</hi> Uſes, <hi>where none elſe
+<pb n="66" facs="tcp:100800:37"/> could;</hi> but in one of his methods, he was <hi>often</hi> deceived; he would perſwade ſome to <hi>promiſe</hi> or <hi>ſub<g ref="char:EOLhyphen"/>ſcribe</hi> ſo much by the Year to ſome good work, either the Education of a Youth, or the relieving of ſome Miniſter, or ſomething that might promote the Goſpel, they would give, and pay, one or two quarters, and then leave the charge wholly upon him: He was too apt to think that when he had perſwa<g ref="char:EOLhyphen"/>ded them to an <hi>act</hi> of Charity, that that would preſently grow up to an <hi>habit,</hi> but he felt the diffe<g ref="char:EOLhyphen"/>rence to his coſt.</p>
+            <p>Another miſtake that made his Life uneaſie, was this: He had many years ago ſuch ſharp pains, as he thought proceeded from the <hi>Stone in the Bladder,</hi> he was con<g ref="char:EOLhyphen"/>firmed in this by being ſearcht, by the moſt celebrated <hi>Lithotomiſt</hi> in this City, <hi>who ſaid he felt it,</hi> the return of thoſe pains frighted
+<pb n="67" facs="tcp:100800:37"/> him into the Expectation of a Ne<g ref="char:EOLhyphen"/>ceſſity of being <hi>Cut,</hi> and this laſt<g ref="char:EOLhyphen"/>ed all his days; but upon the o<g ref="char:EOLhyphen"/>pening of his Body by his Phyſi<g ref="char:EOLhyphen"/>cians, who deſired to ſee where lay the cauſe of that <hi>Diſeaſe which was hid from them;</hi> they found that he had neither in his <hi>Kidneys,</hi> nor in his <hi>
+                  <g ref="char:V">Ʋ</g>reters,</hi> nor in his <hi>Blad<g ref="char:EOLhyphen"/>der</hi> any <hi>Stone,</hi> nor ſo much as any <hi>gravel</hi> tending to it, thus you ſee, much of our real trouble ariſeth from thoſe evils which are but i<g ref="char:EOLhyphen"/>maginary; this was an uncom<g ref="char:EOLhyphen"/>fortable miſtake, but the laſt I ſhall mention was fatal; namely, <hi>his too great careleſneſs of himſelf,</hi> he did <hi>too much</hi> for others, and <hi>too little</hi> for himſelf to hold out long, though he lived of a ſlender, weak ſort of diet, yet he often ſpeak grudgingly of the time that was neceſſarily ſpent in eating and drinking; very much longing for the place, where he ſhould need
+<pb n="68" facs="tcp:100800:38"/> no ſupports of that nature. When he was declining apace towards his end, he uſed to ſay, if he were younger, or could bear riding, <q rend="inline">
+                  <hi>he would fix at no one place, but go about the Country, where he found moſt need, and there preach the Goſpel, Catechiſe the Younger ſort, diſtribute good Books; erect Places for Divine Worſhip, and fix Miniſters at them;</hi>
+               </q> This would have been his delight<g ref="char:EOLhyphen"/>ful Employment, but when that Perſon to whom he freely commu<g ref="char:EOLhyphen"/>nicated his thoughts, told him, his <hi>Work</hi> was greatly <hi>diſproportionable</hi> to his ſtrength, and requeſted him to leave off, what viſibly impaired
+<pb n="69" facs="tcp:100800:38"/> his health, to <hi>work leſs,</hi> that he might <hi>work long.</hi> He with ſome quickneſs anſwered, <q rend="inline">
+                  <hi>Nay then, 'tis no matter if I were dead indeed;</hi>
+               </q> he thanked God he did not deſire Life meerly for its own ſake, nor for any thing of the Pleaſure, or Profit of it, but only for the Work he was at, ſaying, <q rend="inline">
+                  <hi>He had rather die that moment, than live and not be uſeful to the World. I am juſt gone, but if God give Faith and Patience, all will be well, and have a glorious Iſſue.</hi>
+               </q> He expreſſed <q rend="inline">
+                  <hi>a com<g ref="char:EOLhyphen"/>fortable, aſſurance and ſpoke
+<pb n="70" facs="tcp:100800:39"/> as one that had arrived to the top of it, and at par<g ref="char:EOLhyphen"/>ting, deſired Prayers a lit<g ref="char:EOLhyphen"/>tle while,</hi>
+               </q> for ſaid he, <q rend="inline">
+                  <hi>I ſhall not need them long.</hi>
+               </q>
+            </p>
+            <p>To ſum up his charitable Ex<g ref="char:EOLhyphen"/>pences as computed by an intelli<g ref="char:EOLhyphen"/>gent Perſon, as well able to pry into Concealments as moſt Men I know, who had the faireſt Op<g ref="char:EOLhyphen"/>portunity by living ſome Years with him under the ſame Roof, who told me, that, they (beſides what he could not find out) to his Knowledge amounted to <q rend="inline">
+                  <hi>above Three Hundred Pound <hi>per Annum</hi> one Year with another.</hi>
+               </q> And he himſelf hath ſometimes drop't this Expreſſion, <hi>He would not <q rend="inline">
+                     <hi>Sell</hi>
+                  </q>
+                  <pb n="71" facs="tcp:100800:39"/> his Eſtate, becauſe it was Entail'd, but he would <q rend="inline">
+                     <hi>Squeeze</hi>
+                  </q> it as long as he lived,</hi> which he hath done for I know not how many Years. He would often ſay, <hi>He would accept of no Man's Eſtate, if he muſt have his Hands tyed up from his making uſe of it on Spiri<g ref="char:EOLhyphen"/>tual Accounts,</hi> and would very much pity the miſerable Condition of wicked Rich Men, the Truth (in ſhort) was this, <q rend="inline">
+                  <hi>His Zeal for doing Good was ſo tran<g ref="char:EOLhyphen"/>ſporting, that he could as ſoon ceaſe to live, as ceaſe to attempt it,</hi>
+               </q> A dou<g ref="char:EOLhyphen"/>ble Inſtance we have of this, there was <hi>one place</hi> where he was <hi>contri<g ref="char:EOLhyphen"/>ving</hi> to ſettle a <hi>Miniſter,</hi> and <hi>ano<g ref="char:EOLhyphen"/>ther place</hi> where he was <hi>endea<g ref="char:EOLhyphen"/>vouring</hi> to build a <hi>Meeting-Place</hi> when he died.</p>
+            <pb n="72" facs="tcp:100800:40"/>
+            <p>And now having mentioned his <hi>Death,</hi> I will give you ſome Ac<g ref="char:EOLhyphen"/>count of the Circumſtances of it: About three Years ſince, his being wet in a Journey about his Ma<g ref="char:EOLhyphen"/>ſters Work, caſt him into a violent Fever, which may be called his laſt Sickneſs, for he never well re<g ref="char:EOLhyphen"/>covered of it, but was followed with a Complication of many grie<g ref="char:EOLhyphen"/>vous Diſeaſes, ſometimes his Legs ſwelled, threatning a <hi>Dropſie,</hi> ſome<g ref="char:EOLhyphen"/>times great pain in his ſide, as if he had a <hi>Pleuriſie,</hi> ſometimes all over him, as if he had a <hi>Rheuma<g ref="char:EOLhyphen"/>tiſm.</hi> But eſpecially he was af<g ref="char:EOLhyphen"/>flicted with an <hi>Aſthma</hi> which made him unable to walk, to go up a pair of Stairs was almoſt death to him: Theſe things gave con<g ref="char:EOLhyphen"/>trary Indications; and therefore made his cure the more difficult. In theſe ſtraits he was <hi>often let blood, and relieved by it till his Friends were afraid of his proper remedy.</hi>
+            </p>
+            <pb n="73" facs="tcp:100800:40"/>
+            <p>Tho' he was lingering almoſt three Years, yet he was never ob<g ref="char:EOLhyphen"/>ſerved to have any unquiet Mo<g ref="char:EOLhyphen"/>tion of Mind, but had always a ſerene and humble Submiſſion to the ſovereign Will of God; <hi>he did often bewail his own Imperfections, and ſmall knowledge of God and Chriſt, and expreſt <q rend="inline">
+                     <hi>his longing Deſires of ſeeing God face to face.</hi>
+                  </q>
+               </hi> A while before his death he did often ſay, What is the World! 'Tis not worth a ſtraw. <q rend="inline">
+                  <hi>O my God, I would be with thee, Oh, how I long to be with Chriſt my dear Redeemer:</hi>
+               </q> This he ſpake with great earneſtneſs; <q rend="inline">
+                  <hi>Oh my God bring me to thy ſelf.</hi>
+               </q> Whereupon he ſpake
+<pb n="74" facs="tcp:100800:41"/> much of the Glory to be reveal<g ref="char:EOLhyphen"/>ed, and inſiſted on thoſe words, <q rend="inline">
+                  <hi>I will be your God. What greater Gift could he give? He gave himſelf. He gave all.</hi>
+               </q> Then he was rapt up into a ſerious Amazement and deep Admiration, and cried out, <q rend="inline">
+                  <hi>Oh, my God! my God what is ſinful Man! Worm-man! What man<g ref="char:EOLhyphen"/>ner of Love is this! Love indeed! Oh, I cannot ex<g ref="char:EOLhyphen"/>preſs it!</hi>
+               </q>
+            </p>
+            <p>He deſired one to read to him, John 17.22. <hi>And the Glory which thou gaveſt me, I have given them,</hi> &amp;c. The very hearing of which put him into an <hi>ecſtaſie of Joy,</hi> and he deſired him to read of Chriſt's
+<pb n="75" facs="tcp:100800:41"/> Love. 14.15.16.17. of <hi>John.</hi> Some of which he then read to him. A while after, ſpeaking to one about Family Prayer, he ſaid, a <hi>Camel</hi> may as well go through the Eye of a Needle as a Man that prays not in his Family go to Heaven. He prayed much for the Enlargement of Chriſt's Kingdom. The Evening before he died, this Perſon was with him from one of the Clock in the Afternoon till Six, <hi>during which time he was poſſest with ſuch foretaſtes of heavenly Joys that made him earneſtly cry out,</hi> 
+               <q rend="inline">
+                  <hi>O let me be with thee! With thee, Oh my God! Oh, I long for Heaven! Oh, welcome Death! Oh, happy Death that will put an end to all
+<pb n="76" facs="tcp:100800:42"/> my Troubles and Conflicts, one moment in <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s Boſom will make amends for all, turn Sor<g ref="char:EOLhyphen"/>row to Joy. What a dreadful appearance will there be at the Great Day? What a ſad thing will it be to be diſappoint<g ref="char:EOLhyphen"/>ed at laſt and come ſhort of Heaven! O my Re<g ref="char:EOLhyphen"/>deemer liveth, I have ſerved a good Maſter! I would not deſire Life for a moment, unleſs it was to promote the Intereſt
+<pb n="77" facs="tcp:100800:42"/> of Chriſt. If God would give me my choice what I would ask, I would not ask Life. Nay, I have prayed to God that I might die.</hi>
+               </q> Why ſo, ſaid a By-ſtander? <q rend="inline">
+                  <hi>That I may,</hi>
+               </q> ſaid he, <q rend="inline">
+                  <hi>be with God.</hi>
+               </q> Upon which he cried out, <q rend="inline">
+                  <hi>O my God, I would come to thee! Let me live with thee!</hi>
+               </q> Here he added ſomething with a peculiar Fervour, which bearing hard on ſome, he thought too re<g ref="char:EOLhyphen"/>miſs in their ſpiritual Warfare. I forbear to mention, but if this <hi>hint twitch</hi> any Man's <hi>Conſcience,</hi> let him not <hi>ſlight</hi> it. <hi>His laſt
+<pb n="78" facs="tcp:100800:43"/> words to this relater were, <q rend="inline">
+                     <hi>Pray much.</hi>
+                  </q>
+               </hi>
+            </p>
+            <p>What follows is from another intelligent credible Perſon, about Nine of the Clock <hi>ſitting</hi> in a muſing Poſture, <q rend="inline">
+                  <hi>he ſtarted up of a ſuddain, prayed with ſuch ardency of affe<g ref="char:EOLhyphen"/>ction, with ſuch Power and Joy, that amazed all the Family: Wherein he admired God's Goodneſs and diſtinguiſhing Love, and begged to be made more fit for the Inheri<g ref="char:EOLhyphen"/>tance of the Saints in Light.</hi>
+               </q> When he had done, be<g ref="char:EOLhyphen"/>ing
+<pb n="79" facs="tcp:100800:43"/> ask'd the reaſon of ſuch a ſuddain Motion. He anſwered, <q rend="inline">
+                  <hi>'Twas to rouſe up his Soul to Heavenly Meditation.</hi>
+               </q>
+            </p>
+            <p>As he was going to bed, he did with concernedneſs of Mind, ſay, <q rend="inline">
+                  <hi>There will be a Cry at Mid<g ref="char:EOLhyphen"/>night, prepare, prepare,</hi>
+               </q> which accordingly fell out, for when he went to bed, <hi>though he was no otherways affected then for<g ref="char:EOLhyphen"/>merly,</hi> he was immediately taken with a Vomiting of Blood, where<g ref="char:EOLhyphen"/>of he died in a few hours. And now I'll ſay <hi>no more,</hi> leſt I loſe my end of ſaying <hi>ſo much.</hi> 
+               <q rend="inline">
+                  <hi>I muſt draw a Vail over the face of this our <hi>Moſes,</hi> leſt it caſt ſuch a Luſtre, as ill Eyes can't behold it:</hi>
+               </q>
+               <pb n="80" facs="tcp:100800:44"/> In ſhort, all that I have ſaid tends but to this (next, praiſes to God for caſting him in our Age) to be a Provocation to take Chriſt's Counſel to the Lawyer, <note place="margin">
+                  <hi>Luk.</hi> 10.37.</note> 
+               <q rend="inline">
+                  <hi>Go and do thou likewiſe.</hi>
+               </q>
+            </p>
+            <trailer>The End.</trailer>
+         </div>
+         <div type="sermon">
+            <pb n="81" facs="tcp:100800:44"/>
+            <head>THE Reverend Mr. BRAND's <hi rend="blackletterType">Funeral Sermon.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>Joſh. 1.2.</bibl>
+                  <p>Moſes my Servant is dead, now therefore ariſe, <hi>&amp;c.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <div type="introduction">
+               <p>THE Occaſion of this Aſ<g ref="char:EOLhyphen"/>ſembly is more than or<g ref="char:EOLhyphen"/>dinarily doleful, Oh, that God would direct and bleſs what I have to ſay, that the Conſequence may be proportionably profitable! How God ſpake theſe words to <hi>Joſhua,</hi> is doubtful. It was not immediately by himſelf, God ſpake to none, as he ſpake to <hi>Moſes,</hi> face to face, That was <hi>Moſes</hi> his pe<g ref="char:EOLhyphen"/>culiar
+<pb n="82" facs="tcp:100800:45"/> Priviledge, <note place="margin">
+                     <hi>Exod.</hi> 33.11.</note> 
+                  <hi>And the Lord ſpake unto <hi>Moſes</hi> face to face, as a Man ſpeaketh unto his Friend.</hi> But it was either by an <hi>Angel,</hi> or by a <hi>Viſion,</hi> when he was awake, or by a <hi>Dream</hi> when aſleep. <hi>Moſes my Servant is dead,</hi> God honours him, by owning him as his faith<g ref="char:EOLhyphen"/>ful Servant in performing all the Duties required of him in his Place. Though he ſo ſinned at the Water of <hi>Meribah,</hi> for which he ſhould never go into <hi>Canaan;</hi> yet he died in the <hi>State of Ser<g ref="char:EOLhyphen"/>vice,</hi> and God (as it were) ſaith, whatever he was, whatever he wrought, it was all mine.</p>
+               <p>Moſes <hi>my Servant.</hi> The Title of God's Servant is more than the meer Title of <hi>Apostle. Jude</hi> he calls himſelf, <note place="margin">
+                     <hi>Jude</hi> 1.</note> 
+                  <hi>the Servant,</hi> conceals himſelf to be the <hi>Apoſtle</hi> of Jeſus Chriſt. <hi>Peter</hi> he poſtponeth Apoſtle to Servant, <note place="margin">2 <hi>Peter.</hi> 1.1.</note> 
+                  <hi>Peter the Servant and Apoſtle of Jeſus Chriſt.</hi>
+               </p>
+               <pb n="83" facs="tcp:100800:45"/>
+               <p>
+                  <hi>Is dead,</hi> and now no longer able to execute his <hi>Office.</hi> This is ſpoken after his extraordinary interment, whether immediately by God, or by a good Angel, or good Angels. <hi>It is queſtionable whether any one of the Evil An<g ref="char:EOLhyphen"/>gels were permitted to attend his Funeral, leſt they ſhould tempt the Iſraelites to idolize him.</hi> And after the <hi>Iſraelites</hi> ſolemn Mourn<g ref="char:EOLhyphen"/>ings, God tells him, <hi>Moſes my Servant is dead, now therefore a<g ref="char:EOLhyphen"/>riſe:</hi> As if he ſhould ſay, be not as one aſtoniſhed, and diſpirited, but rouſe up thy ſelf, to know, and do thy Duty; do not ſit muſing, but preſently, and vigorouſly ſet upon thy Duty: The Words I think need no farther Explication.</p>
+               <p>You ſhall have what I have to ſay under this Doctrine.</p>
+               <pb n="84" facs="tcp:100800:46"/>
+               <p>
+                  <label>Doct.</label> 
+                  <hi>When God takes away an Eminent Minister by death, God requires our ſutable Notice and Improvement of it. Moſes</hi> my Servant is dead, and that makes way for more, and greater duty, both for <hi>Joſhua,</hi> and all the People, than ever before was incumbent upon them; That now becomes their Duty which was never ſo be<g ref="char:EOLhyphen"/>fore. <note place="margin">
+                     <hi>Joſh.</hi> 3.5,6,7.</note> 
+                  <hi>And Joſhua ſaid unto the People, Sanctifie your ſelves; for to morrow the Lord will do wonders among you. And Joſhua ſpake un<g ref="char:EOLhyphen"/>to the Prieſts, ſaying, Take up the Ark of the Covenant, and paſs o<g ref="char:EOLhyphen"/>ver,</hi> &amp;c. <hi>And the Lord ſaid unto Joſhua, This day will I begin to magnifie thee in the ſight of all <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> that they may know that as I was with <hi>Moſes,</hi> ſo will I be with thee.</hi> Here you have <hi>Joſhua</hi>'s charge to the <hi>People,</hi> and <hi>Prieſts,</hi> and God's encouraging of <hi>Joſhua,</hi> for they are all put upon ſuch kind
+<pb n="85" facs="tcp:100800:46"/> of Duty, that cannot be done by a lazy, careleſs performance of it; ſuch a Duty, that if it be not performed in the ſeaſon God vouchſafes, they can never expect the like ſeaſon again.</p>
+            </div>
+            <div type="doctrine">
+               <p>For the opening the <hi>Doctrine,</hi> take it in theſe Five Propoſitions.</p>
+               <div n="1" type="proposition">
+                  <head>I. Prop.</head>
+                  <q>I. <hi>The greateſt Service God im<g ref="char:EOLhyphen"/>ploys any in upon Earth, doth not exempt them from death.</hi> God's choiceſt Miniſters are not immortal; Thoſe that can moſt effectually direct others to eternal Life, can<g ref="char:EOLhyphen"/>not ſecure themſelves to live one day in this World. <note place="margin">
+                        <hi>Zach.</hi> 1.5,6.</note> 
+                     <hi>Do the Prophets live for e<g ref="char:EOLhyphen"/>ver,</hi> &amp;c. <note place="margin">
+                        <hi>John</hi> 8.52.</note> 
+                     <hi>Abraham is dead, and the Prophets are dead.</hi>
+                  </q>
+                  <pb n="86" facs="tcp:100800:47"/>
+                  <p>This Propoſition will be evi<g ref="char:EOLhyphen"/>dent if you conſider,</p>
+                  <p n="1">1. <hi>Miniſters are ſubject to the ſame Diſeaſes and Caſualties with other Men.</hi> I know not any di<g ref="char:EOLhyphen"/>ſeaſe but the Leproſie that the Prieſts were priviledged from, un<g ref="char:EOLhyphen"/>der the Law; and I dare not be peremptory in aſſerting, that Mi<g ref="char:EOLhyphen"/>niſters have this priviledge con<g ref="char:EOLhyphen"/>tinued under the Goſpel.</p>
+                  <p n="2">2. Miniſters are ſubject not on<g ref="char:EOLhyphen"/>ly to more Diſtreſſes, and Suffer<g ref="char:EOLhyphen"/>ings, but alſo to more Diſeaſes, and more bodily Infirmities than others. They are to be the Lights of the World, and they are as a Candle ſet upon a Hill, which flares out before others.</p>
+                  <pb n="87" facs="tcp:100800:47"/>
+                  <p n="3">3. Miniſters Lives may be ſhortned, as well for other Mens Sins, as for their own. We may with trembling, conſider what manner of Miniſters God hath in our day taken, or ſnatcht from us by different diſeaſes. I'll con<g ref="char:EOLhyphen"/>fine my ſelf to two inſtances un<g ref="char:EOLhyphen"/>der each Head.</p>
+                  <p>Some indeed God continued long in the World ſtruggling (I will not ſay to preſerve) but to improve their dying Life un<g ref="char:EOLhyphen"/>der unuſual and tormenting pains to the Churches benefit, whoſe Bodies were worn out with anguiſh, but their Souls had foretaſts of Heaven, before they got looſe from their clogs, <hi>viz.</hi> Mr. <hi>Corbet,</hi> who beſides his Pulpit-Labours <hi>wrote a greater number of Healing Treatiſes, than any I ever heard of.</hi> And Mr. <hi>Baxter</hi> of whom his Works ſay ſo much, I need ſay nothing.</p>
+                  <pb n="88" facs="tcp:100800:48"/>
+                  <p>Some others God did not con<g ref="char:EOLhyphen"/>tinue ſo long, indeed 'tis impoſſible they ſhould, without miracle, their pains being in a ſad meaſure <hi>in<g ref="char:EOLhyphen"/>tolerable</hi> to thoſe that but <hi>ſympa<g ref="char:EOLhyphen"/>thized</hi> with them, <hi>viz.</hi> Mr. <hi>Jeremiah Whitaker,</hi> who was a mirror of Patience, and Mr. <hi>Joſeph Allein,</hi> whoſe Sufferings for Chriſt little other than hurried him to Heaven in a fiery Chariot, if any bodily diſeaſes may be called ſo, for their being terrible to the be<g ref="char:EOLhyphen"/>holders.</p>
+                  <p>Some others, whoſe Labours were more than ordinary, and ſuc<g ref="char:EOLhyphen"/>ceſs anſwerable, God laid them to ſleep, without any hint to their admirers, to put up ſo much as one Prayer for their continuance, <hi>viz.</hi> Mr. <hi>Gouge,</hi> whom I think none will grudge the Title of the <hi>E<g ref="char:EOLhyphen"/>vangeliſt of Wales,</hi> who did more for the promoting the Goſpel there, than ever was done before;
+<pb n="89" facs="tcp:100800:48"/> who when he went to Bed well, was found dead there in the Morn<g ref="char:EOLhyphen"/>ing. And Mr. <hi>Hardy,</hi> whoſe Zeal (and Prudence to manage it) was ſuch, that thoſe who envied him his Station, were forc't to get a <hi>By-Law</hi> on purpoſe, ere they could remove him. And when he was a great Bleſſing to the People, whither God ſent him, God put him to ſleep in much like manner with the former.</p>
+                  <p>Some others, God ſtartled the Congregations with their Surprizal in the Pulpit, God calling them up thither, not only to preach but to die, <hi>viz.</hi> Mr. <hi>Oakes,</hi> who was (I think) as well in health as any time of his life, when he had ended his Afternoon Prayer before his Sermon, God call'd him to begin his eternal Sabbath with himſelf. And the next Lord's day but one, when Mr. <hi>
+                        <gap reason="illegible: omitted in print" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Kentiſh</hi> had rouzed the Peoples attention with
+<pb n="90" facs="tcp:100800:49"/> the mention of Mr. <hi>Oake's</hi> being ſo lately ſtruck dead in the Pul<g ref="char:EOLhyphen"/>pit, God made him a like inſtance.</p>
+                  <p>Some others, who had but juſt begun to preach, but would pro<g ref="char:EOLhyphen"/>bably have outſtript moſt others, God only ſhewed them to the World, and ſnatcht them to him<g ref="char:EOLhyphen"/>ſelf, <hi>viz.</hi> Mr. <hi>John Janeway,</hi> who lived ſo much in Heaven, that God as it were ſaid of him, <note place="margin">
+                        <hi>Mich.</hi> 7.1.</note> 
+                     <hi>my Soul deſireth the firſt ripe fruit, and this good Man ſoon periſht out of the Earth,</hi> i. e. ceaſed to live; as I remember, he never preacht more then one Sermon. and Mr. <hi>
+                        <gap reason="illegible: omitted in print" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Tyro,</hi> who was but <hi>offering</hi> at the Miniſtry, admired by all that heard him, but God ſoon took him to admire himſelf in Glory. Thus died theſe Wor<g ref="char:EOLhyphen"/>thies. Upon whoſe Provocations? not their own, beſure. They kept off Judgments, not procured them.</p>
+                  <p>God ſaid to them as to <hi>Ezekiel,</hi>
+                     <pb n="91" facs="tcp:100800:49"/>
+                     <note place="margin">
+                        <hi>Ezek.</hi> 3.26.</note> 
+                     <hi>Thou ſhalt not be to them a Re<g ref="char:EOLhyphen"/>prover.</hi>
+                  </p>
+                  <p>Theſe Inſtances have enlarged the firſt Propoſition. I'll be briefer in the reſt.</p>
+               </div>
+               <div n="2" type="proposition">
+                  <head>II. Prop.</head>
+                  <q>II. <hi>When God takes away any of his eminent Miniſters by death, God requires a more than ordinary notice ſhould be taken of it.</hi>
+                  </q>
+                  <p>Which may be thus evidenced,</p>
+                  <p n="1">1. God ſets Miniſters for a Sign to the People, that the People may receive Inſtruction, as well from the Providences of God towards them, as from their Doctrine. <note place="margin">
+                        <hi>Iſa.</hi> 20.2,3,4.</note> 
+                     <hi>At the ſame time ſpake the Lord by <hi>Iſaiah,</hi> the Son of <hi>Amoz,</hi> ſaying, Go, and looſe the Sack-cloth from off thy loins, and put off thy ſhooe from thy foot: And he did ſo, walking naked and barefoot. And the Lord ſaid, Like as my Servant <hi>Iſai.</hi> hath walked naked and barefoot three
+<pb n="29" facs="tcp:100800:50"/> Years for a Sign and Wonder upon <hi>Egypt,</hi> and upon <hi>Ethiopia;</hi> So ſhall the King of <hi>Aſſyria</hi> lead away the <hi>Egyptians</hi> Priſoners, and the <hi>E<g ref="char:EOLhyphen"/>thiopians</hi> Captives, young and old, naked and barefoot, even with their Buttocks uncovered, to the ſhame of <hi>Egypt.</hi>
+                     </hi> Here are Sym<g ref="char:EOLhyphen"/>bolical and Significative Ceremo<g ref="char:EOLhyphen"/>nies, whereby the Prophet was to repreſent to them, not only in <hi>Viſion,</hi> as ſome ſuppoſe, but <hi>really,</hi> how they ſhould be carried away captive, he muſt put off his pro<g ref="char:EOLhyphen"/>phetical Mantle (ſuch as fell from <hi>Elias,</hi> when he was carried up to Heaven in a Whirlwind,) ſo they ſhould go ſtript (not ſtark naked) in ſorry and ragged apparel, as Priſoners are wont to be led; ſo he was to walk up and down in that manner, that they might be convinc'd what ſhould befall them. See the whole 4<hi>th.</hi> Chapter of <hi>Ezekiel,</hi> and <hi>Ezek.</hi> 12<hi>th.</hi> Chapter
+<pb n="93" facs="tcp:100800:50"/> from <hi>V.</hi> 3<hi>d.</hi> to the 10<hi>th.</hi> and Ch. 24. from <hi>v.</hi> 16. to the 19<hi>th. Son of Man, behold I take from thee the Deſire of thine Eyes with a ſtroke; yet neither ſhalt thou mourn, nor weep, neither ſhall thy tears run down,</hi> v. 19. <hi>Forbear to cry, make no mourning for the dead</hi> — v. 18. <hi>So I ſpake unto the People in the morning, and at even my Wife died, and I did in the Morn<g ref="char:EOLhyphen"/>ing as I was commanded,</hi> v. 19. <hi>And the People ſaid unto me, wilt thou not tell us what theſe things are to us, that thou doeſt ſo?</hi> The People en<g ref="char:EOLhyphen"/>quire, as well they might. What is it that we are to learn by this? Theſe are types, what do they mean? but I'll cloſe this with this Scripture-ſtory. In 1 <hi>Kings</hi> 13. A Prophet is ſent to tell <hi>Jeroboam</hi> what ſhould befall his Idolatrous Altar, he ſtretcheth out his hand againſt the Prophet, but muſt be beholding to the Prophet's Prayer,
+<pb n="94" facs="tcp:100800:51"/> that he may be able to pull it to him again: For this kindneſs he invites the Prophet to Dinner, but the Prophettells him, <hi>v.</hi> 8. <hi>If thou wilt give me half thine Houſe, I will not go in with thee, neither will eat bread or drink water in this place,</hi> v. 9. <hi>For ſo was it charged me by the word of the Lord, ſaying, eat no bread, nor drink wa<g ref="char:EOLhyphen"/>ter, nor turn again by the ſame way that thou cameſt.</hi> But this young Prophet was ſeduced by an old one, who pretended God by an Angel ſent to him to invite him to take ſome refreſhment, he having delivered his meſſage, and was returning home another way, as was commanded him; but as he ſate at the Table, the old Pro<g ref="char:EOLhyphen"/>phet is forced to tell his gueſt, he had ſeduced him, and for his yielding to the pretended Diſpen<g ref="char:EOLhyphen"/>ſation, a Lion ſhould kill him, which was executed that very
+<pb n="95" facs="tcp:100800:51"/> day, and the poor Prophet's death muſt aſſure both Court and City of the Certainty of the Prediction. <hi>O what need have Miniſters to be cautious leſt God by their death confirm their Doctrine,</hi> v. 32.</p>
+                  <p n="2">2. God requires ſomething more than ordinary. <hi>Joſhua</hi> and the People had obſerved the or<g ref="char:EOLhyphen"/>dinary time of Mourning. <note place="margin">
+                        <hi>Deut.</hi> 34.8.</note> 
+                     <hi>And the Children of <hi>Iſrael</hi> wept for <hi>Moſes</hi> in the Plains of <hi>Moab</hi> thirty days: So the days of mourning for <hi>Moſes</hi> were ended.</hi> 
+                     <note place="margin">
+                        <hi>Numb.</hi> 20.28.</note> So many days they mourned for <hi>Aaron;</hi> the time of mourning for ordinary Perſons was ſeven days. But of <hi>Moſes,</hi> when they had mourned as long for him, as for any one. God now puts them upon ſomething more. It is not enough to do on<g ref="char:EOLhyphen"/>ly as the People that went to ſee Chriſt crucified; <note place="margin">
+                        <hi>Luke</hi> 23.48.</note> 
+                     <hi>They ſmote their breaſts, and returned.</hi> A
+<pb n="96" facs="tcp:100800:52"/> tranſient Pang of Paſſion is not ſo much as the leaſt that God calls for. Therefore,</p>
+               </div>
+               <div n="3" type="proposition">
+                  <head>III. Prop.</head>
+                  <q>III. <hi>When God takes away his Eminent Miniſters, there is more work devolves upon o<g ref="char:EOLhyphen"/>thers, both Miniſters and People, by it.</hi>
+                  </q>
+                  <p n="1">1. The Work <hi>they</hi> did muſt be done by others, that the Church of Chriſt may not be a looſer by their death. And this you'll find to be hard work, for <hi>many</hi> to per<g ref="char:EOLhyphen"/>form what ſome <hi>one</hi> hath done, whom God hath taken from us. One <hi>Moſes</hi> did more then the ſe<g ref="char:EOLhyphen"/>venty chief of them, who were to eaſe him of his burthen; he did more with God and Man in <hi>Egypt,</hi> and in the Wilderneſs, by Sea, by Land, in Peace, in War more by lifting up in hands, in prayer, than the whole by lifting up their hands
+<pb n="97" facs="tcp:100800:52"/> in fighting. <hi>Exod.</hi> 17.11. <hi>When</hi> Moſes <hi>held up his hand</hi> Iſrael <hi>pre<g ref="char:EOLhyphen"/>vailed; and when he let down his hand</hi> Amalek <hi>prevailed.</hi> More for the quieting and ſatisfying of a murmuring People than any of them, than all of them could do. What is now therefore next to be done? and by whoſe hands? they might tremblingly enquire, for <hi>Moſes</hi> is dead, and if the delive<g ref="char:EOLhyphen"/>rance he begun, be not carried on, they muſt periſh. Who dare now undertake it? But I'll ſpeak of <hi>Moſes</hi> as a Miniſter, and of ſuch things wherein we are all con<g ref="char:EOLhyphen"/>cern'd.</p>
+                  <p n="2">2. Repentance of the Sins they reproved, which are not yet re<g ref="char:EOLhyphen"/>pented of; and the Performance of the Duties they called to, which they have not yet obeyed the Call; <note place="margin">
+                        <hi>Zach.</hi> 1.5,6.</note> 
+                     <hi>Your Fathers, Where are they? And the Prophets do they
+<pb n="98" facs="tcp:100800:53"/> live for ever? But my Words and my Statutes which I commanded my Servants the Prophets did they not take hold of your Fathers? and they returned and ſaid, Like as the Lord of Hoſts thought to do unto us, according to our ways, and according to our doings, ſo hath he dealt with us,</hi> q. d. Where are diſobedient Fathers? though the Prophets die that threatned them, Did not the Threatnings purſue and overtake them? and ſo the Word will have the ſame effect upon you, though the Mi<g ref="char:EOLhyphen"/>niſters that preach it do not live to ſee its Accompliſhment.</p>
+                  <p n="3">3. New Duties ſpring as it were out of their Graves. There ſhould be a Progreſs in the Knowledge and Practice of ſerious Godlineſs; Can you think that God requires no more of you now than he did of our Forefathers, when he firſt
+<pb n="99" facs="tcp:100800:53"/> ſent the Goſpel amongſt them? that we ſhould know no more now, than thoſe who had the firſt dawnings of Goſpel-light out of worſe than Aegyptian darkneſs? that God expects no more fruits from you who have been ſo long cultivated, than from thoſe that ſcarce ever heard a Conſcience-awakening Sermon? Surely, you cannot perſwade your ſelves, I hope all the Devils in Hell cannot perſwade you to think ſo. Be<g ref="char:EOLhyphen"/>ſides, every Age hath its peculiar Truth. The Apoſtle <hi>Peter,</hi> 
+                     <note place="margin">2 <hi>Pet.</hi> 1.12.</note> when he mentions his departure, tells them he would have them eſta<g ref="char:EOLhyphen"/>bliſhed in the preſent Truth. And the Apoſtle <hi>Jude</hi> tells thoſe to whom he wrote, <note place="margin">
+                        <hi>Jude</hi> 3.</note> that 'twas need<g ref="char:EOLhyphen"/>ful for him to write unto them and exhort them, that they ſhould <hi>earneſtly contend for the Faith which was first delivered unto the Saints.</hi> Doth it not concern us
+<pb n="100" facs="tcp:100800:54"/> diligently to enquire what may be the Doctrine of Faith, which God calls us now earneſtly to contend for? Give me leave to propoſe it to your Enquiry, Whether it may not be the Doctrine of the Kingly Office of Jeſus Chriſt? Miſtake me not, I urge no other Conten<g ref="char:EOLhyphen"/>tions than that which every one will grant to be a Duty, namely, ſtrive with God, in fervent Prayer for his fulfilling all the Promiſes that concern Chriſt's mediatory Kingdom, in ſhort, that God would grant what Chriſt hath taught us firſt to pray for, <hi>Thy Kingdom come,</hi> that Chriſt's King<g ref="char:EOLhyphen"/>dom may be advanced, and Satan's Kingdom may be deſtroyed. And ſtrive with Men by the moſt for<g ref="char:EOLhyphen"/>cible Arguments that the Scriptures furniſh us withal, to be Chriſt's <hi>willing People in this day of his Power.</hi> And to ſtrive with Ene<g ref="char:EOLhyphen"/>mies with the moſt piercing
+<pb n="101" facs="tcp:100800:54"/> Convictions, that thoſe <hi>Arrows may be ſharp</hi> in their Hearts to <hi>wound,</hi> and <hi>heal</hi> them. Chriſtians, pray, let it be your great care to ap<g ref="char:EOLhyphen"/>prove your ſelves to be the faithful Subjects of the Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, without any reſerve of either Sin, or Duty.</p>
+                  <p n="4">4. New Sins, like new Diſeaſes, are peculiar to ſpecial times, for the Cure of which we muſt apply proper Remedies. We yearly ſpeak of new Fevers, when they are but the ſame with ſome pecu<g ref="char:EOLhyphen"/>liar Circumſtances. So in ſpiritual Diſeaſes, ſeveral times have their ſeveral dangers. <note place="margin">
+                        <hi>Acts</hi> 20.29.</note> 
+                     <hi>After my depart<g ref="char:EOLhyphen"/>ing ſhall grievous Wolves enter in among you, not ſparing the Flock,</hi> v. 30. <hi>Therefore watch,</hi> &amp;c. and <hi>v.</hi> 25. And now behold, <hi>I know that ye all among whom I have gone Preaching the Kingdom of God ſhall ſee my face no more.</hi> When raven<g ref="char:EOLhyphen"/>ing
+<pb n="102" facs="tcp:100800:55"/> Wolves can no more <hi>worry,</hi> then Seducers will be buſie to <hi>per<g ref="char:EOLhyphen"/>vert,</hi> and when watchful Shep<g ref="char:EOLhyphen"/>herds are taken away, 'tis then time for the Sheep of Chriſt to be ſenſible of their danger, that they may neither be <hi>frighted,</hi> nor <hi>flat<g ref="char:EOLhyphen"/>tered</hi> out of the Fold of Chriſt.</p>
+               </div>
+               <div n="4" type="proposition">
+                  <head>Prop. IV.</head>
+                  <q>IV. While the Senſe of the Death of any Eminent Mini<g ref="char:EOLhyphen"/>ſter is freſh upon us, we ſhould take that advantage of getting an abiding benefit. When the Iron is hot, then is time to ſtrike, to faſhion it into that uſeful form, that it muſt abide in till it is worn out. Whoſe heart is heated and mollified by ſuch a Pro<g ref="char:EOLhyphen"/>vidence as this, let it not cool again without ſome powerful Improvement.</q>
+                  <pb n="103" facs="tcp:100800:55"/>
+                  <p n="1">1. The Circumſtances of ſuch a Providence, which are moſt af<g ref="char:EOLhyphen"/>fecting, will wear off, if there be not great care to preſerve them in their preſent vigor. We are in many things more affected with the Circumſtances, than with the things themſelves. Do but ob<g ref="char:EOLhyphen"/>ſerve it in thoſe ſignal Paſſages of God's providence towards you, which you did preſently put down in writing, to keep by you; when ſome Years after you read them, doth it not bring to mind thoſe Circumſtances that were for<g ref="char:EOLhyphen"/>gotten?</p>
+                  <p n="2">2. Several things of great mo<g ref="char:EOLhyphen"/>ment fall out but once in our Life, and perhaps you'll find this to be ſuch a Providence, when you con<g ref="char:EOLhyphen"/>ſiderately conſider of it.</p>
+                  <p>I think every one that will but ſeriouſly reflect upon the Provi<g ref="char:EOLhyphen"/>dences
+<pb n="104" facs="tcp:100800:56"/> of his own Life will find himſelf furniſhed with inſtances of this kind, both in the things of this Life and a better. <hi>Some ſpeak peremptorily, that every one hath, ſome time of his life ſome providen<g ref="char:EOLhyphen"/>tial offers of worldly advantage which if it be let ſlip, they never have a ſecond offer like it.</hi> Nay more, they ſay, there's never any one under <hi>overwhelming</hi> preſſures, but if he had complied with ſome <hi>hints</hi> of Providence, he might have <hi>prevented</hi> it: I will not di<g ref="char:EOLhyphen"/>vert ſtrictly to examine this aſſer<g ref="char:EOLhyphen"/>tion, becauſe 'tis not my buſineſs to preach a worldly Lecture. But obſerve it therefore in Spirituals. <hi>There's not any one now periſheth under the Goſpel, but if he had, or would comply with the ſtrivings of the Spirit he might be ſaved.</hi> You will ſay, 'tis only the <hi>Elect</hi> ſhall be ſaved. I ſay ſo to. But add then; <hi>There is not any one in
+<pb n="105" facs="tcp:100800:56" rendition="simple:additions"/> the World</hi> (<gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>can prove he is not elected.</hi> I grant 'tis eaſie to prove that they are not yet effectu<g ref="char:EOLhyphen"/>ally called, but who can prove they <hi>never</hi> ſhall be. Though <hi>Salvation be of Grace,</hi> yet <hi>Damnation is onely for Sin.</hi> There's not any one in the World, ever was, or ſhall be damned, <hi>onely</hi> becauſe he was not elected. Do you therefore catch at the offer of Salvation, and let not <hi>one</hi> offer ſlip: Perhaps you'll ſay, this Counſel is too late, you have let many ſlip. Well, but be intreated to ſlip no more, caſt thy ſelf at the feel of Chriſt in a way of Duty, and there humbly re<g ref="char:EOLhyphen"/>ſolve to live and die. I do once more in the name of my Maſter invite and <hi>adjure</hi> thee to accept of this offer, do not neglect it, <hi>it may be thy laſt;</hi> thou canſt not of thy ſelf cloſe with it, call in help from the Spirit of God, take
+<pb n="106" facs="tcp:100800:57"/> Provocation and Encouragement from the Apoſtles way of urging it. <note place="margin">
+                        <hi>Phil.</hi> 2.12,13.</note> 
+                     <hi>Work out your own Salvation with fear and trembling, for it is God which worketh in you, both to will and to do, of his good plea<g ref="char:EOLhyphen"/>ſure.</hi>
+                  </p>
+               </div>
+               <div n="5" type="proposition">
+                  <head>V. Prop.</head>
+                  <q>V. The <hi>preſent</hi> time is always the fitteſt for the <hi>preſent Duty.</hi> What is our preſent Duty? There are preculiar Seaſons for particular Duties, <hi>Eccleſ.</hi> 8.6. <hi>Becauſe there is a time and ſeaſon for every work, therefore the Miſery of Man is great upon him.</hi> Here it is that we blunder, and run our ſelves into confuſi<g ref="char:EOLhyphen"/>on, in perverting our Duties, in doing that firſt which ſhould be laſt, and putting off that to the laſt which ſhould be firſt. <note place="margin">
+                        <hi>Mat.</hi> 6.33.</note> 
+                     <hi>Seek ye first the Kingdom of God.</hi> We tire our ſelves in hunting after the
+<pb n="107" facs="tcp:100800:57"/> World, and when we are weary, we would have reſt, not in Heaven, that's a Holy place, poſſeſt by holy Inhabi<g ref="char:EOLhyphen"/>tants, Holineſs is hated about all things, let it be called Heaven, but let it be a Tur<g ref="char:EOLhyphen"/>kiſh Paradice, a place of free<g ref="char:EOLhyphen"/>dom from Miſery, and an enjoyment of ſenſual De<g ref="char:EOLhyphen"/>lights. Thus we pervert both means and end, and <hi>while</hi> out our life in a <hi>Dream,</hi> till we <hi>awake</hi> in Hell. At beſt we loſe our Tyde, and then muſt row againſt it all the way. Whereas the hardeſt Duties of Religion, did we but mind their ſeaſon, would be made graciouſly natural to us.</q>
+                  <p n="1">1. Conſider what help God or<g ref="char:EOLhyphen"/>dinarily affords for preſent Duty, which, if that be neglected, he
+<pb n="108" facs="tcp:100800:58"/> ſometimes offers it not again. Should we reflect upon the Duty God now injoined in this Verſe, and remember what God did to their immediate Anceſtors, <hi>Numb.</hi> 13.31,32. <hi>V.</hi> 30. <hi>And.</hi> Caleb <hi>ſtilled the People</hi> — and ſaid, <hi>Let us go up at once and poſſeſs it, for we are well able to overcome it,</hi> v. 31. <hi>But the Men that went up with him, ſaid we are not able to go up againſt the People, for they are ſtronger than we;</hi> compare this with <hi>Num.</hi> 14.37,40. v. 37. <hi>Thoſe Men that did bring up the evil Report upon the Land, died by the Plague before the Lord,</hi> v. 40. <hi>The People roſe up early in the morning, and got them up into the top of the Mountain, ſaying, Lo, we be here, and will go up into the place which the Lord hath promiſed; for we have ſin<g ref="char:EOLhyphen"/>ned.</hi> The ſum of the Story is this; 'twas their Duty to go pre<g ref="char:EOLhyphen"/>ſently and take poſſeſſion of <hi>Ca<g ref="char:EOLhyphen"/>naan.</hi>
+                     <pb n="109" facs="tcp:100800:58"/> Thoſe that diſcouraged them to this Duty, God ſtruck them dead ſuddenly: This ſtartles the Survivors, they did but ſleep up<g ref="char:EOLhyphen"/>on it (or rather wake upon it) one night, on the very morrow morn<g ref="char:EOLhyphen"/>ing, they'll go to rights to <hi>Canaan.</hi> No, 'tis too late, God refuſeth the Conduct of them, there's ne<g ref="char:EOLhyphen"/>ver a Man of them ſhall ever ſee <hi>Canaan.</hi> Think of this over a<g ref="char:EOLhyphen"/>gain.</p>
+                  <p n="2">2. The oftener preſent Help for <hi>preſent Duty</hi> is neglected, the more likely it is that God is upon his de<g ref="char:EOLhyphen"/>parture from ſuch a People, <hi>Jer.</hi> 16.21. <hi>Therefore behold, I will this once cauſe them to know, I will cauſe them to know mine hand and my might, and they ſhall know that my Name is the Lord,</hi> q. d. once for all, and I'll trouble my ſelf with them no more.</p>
+                  <pb n="110" facs="tcp:100800:59"/>
+                  <p>And now God ſaith, <hi>My Servant</hi> Brand <hi>is dead.</hi> Perhaps ſome may be ready preſently to ſay, Will you compare him with <hi>Moſes?</hi> It is ſaid. <note place="margin">
+                        <hi>Deut.</hi> 34.10.</note> 
+                     <hi>There aroſe not a Prophet ſince in</hi> Iſrael <hi>like unto</hi> Moſes, <hi>whom the Lord knew face to face.</hi> You may obſerve, ſeve<g ref="char:EOLhyphen"/>ral Perſons are commended in Scripture as <hi>Non-ſuch</hi> Perſons for ſome <hi>peculiar</hi> Excellency, wherein they excelled others, though ſome in other things excelled them, <hi>e. g.</hi> 
+                     <note place="margin">2 <hi>Kings</hi> 18.5,6.</note> 
+                     <hi>
+                        <hi>Hezekiah</hi> truſted in the Lord God of <hi>Iſrael,</hi> ſo that after him was none like him among all the Kings of <hi>Judah,</hi> nor any that were before him,</hi> &amp;c. For truſting in God without calling in <hi>Heatheniſh</hi> Succours, none like him. So of <hi>Joſiah,</hi> 
+                     <note place="margin">2 <hi>Kings</hi> 23.25.</note> 
+                     <hi>Like unto him was there no King before him, that turned to the Lord with all his heart, and with all his ſoul, and with all his might, according to all the Law of <hi>Moſes,</hi>
+                        <pb n="111" facs="tcp:100800:59"/> neither after him aroſe there any like him.</hi> For his diligent care to root out Idolatry, and eſtabliſh the true Religion, none like him. And of <hi>John</hi> Chriſt ſaith, <note place="margin">
+                        <hi>Mat.</hi> 11.11.</note> 
+                     <hi>Among them that are born of Women, there hath not riſen a greater than <hi>John</hi> the <hi>Baptiſt.</hi>
+                     </hi> Other Prophets prophe<g ref="char:EOLhyphen"/>ſied of Chriſt to come, <hi>John Bap<g ref="char:EOLhyphen"/>tiſt</hi> could point to him, and ſay, <note place="margin">
+                        <hi>Joh.</hi> 1.29</note> 
+                     <hi>Behold the Lamb of God which taketh away the Sin of the World.</hi> He could ſhew him to be already come. And the bleſſed Apoſtle ſaith of the <hi>Galatians.</hi> 
+                     <note place="margin">
+                        <hi>Gal.</hi> 4.14.</note> 
+                     <hi>My temp<g ref="char:EOLhyphen"/>tation which was in my fleſh ye de<g ref="char:EOLhyphen"/>ſpiſed not, nor rejected, but received me as an Angel of God, even as Chriſt Jeſus,</hi> q. d. If Chriſt Jeſus himſelf had come amongſt you, you could not have been more kind to him then you were to me. In a word, I will grant <hi>Moſes</hi> excell'd all the Prophets, not only in the Sublimeneſs of his Propheſie,
+<pb n="112" facs="tcp:100800:60"/> but in the Excellency and Multi<g ref="char:EOLhyphen"/>tude of his Miracles. In one Age he wrought Seventy ſix Miracles, when all that were wrought from the Beginning of the World to the Deſtruction of the firſt Tem<g ref="char:EOLhyphen"/>ple were but ſeventy four, as ſome of the <hi>Jewiſh</hi> Maſters count them. <hi>Moſes</hi> had an Hundred ſeventy three Colloquies with God, which we read not of all Prophets beſides.</p>
+                  <p>But yet if you will conſider Mr. <hi>Brand,</hi> though I compare him not with <hi>Moſes</hi> in the fore<g ref="char:EOLhyphen"/>mentioned Particulars, yet I could mention more than I dare. I'll therefore wave all that I have to ſay, and come to that which I would and ſhould come to, after all that can be ſaid, and that is, Application.</p>
+               </div>
+            </div>
+            <div type="applications">
+               <pb n="113" facs="tcp:100800:60"/>
+               <head>Application.</head>
+               <div type="introduction">
+                  <p>I'll begin with a word of</p>
+                  <p>Information; But I fear the <hi>Be<g ref="char:EOLhyphen"/>lialiſts</hi> will call it a Uſe of <hi>Conſola<g ref="char:EOLhyphen"/>tion,</hi> That Mr. <hi>Brand</hi> is dead; What was ſaid of the two Wit<g ref="char:EOLhyphen"/>neſſes, may in its meaſure be ſaid of him; <note place="margin">
+                        <hi>Rev.</hi> 11.10.</note> 
+                     <hi>They that dwell upon the Earth ſhall rejoice over them, and make merry, and ſhall ſend gifts one to another, becauſe theſe two Pro<g ref="char:EOLhyphen"/>phets tormented them that dwelt upon the Earth.</hi> We ſhall never be troubled with his <hi>Zeal</hi> more; we were uneaſie whenever we came where he was, tho' he ſaid nothing to us, we were <hi>in fear, he would awaken our ſleeping Con<g ref="char:EOLhyphen"/>ſciences, and make them fall upon us, that we ſhould have much ado to quiet them;</hi> but now, he will never diſturb us more. I will not ſtay with theſe; only leave one word with them. That though they would not hear it from him,
+<pb n="114" facs="tcp:100800:61"/> yet, unleſs by ſome other hand, they take the Counſel he did, or would have given them, <hi>viz. To turn from ſin to God, they will ne<g ref="char:EOLhyphen"/>ver go whither he is gone.</hi>
+                  </p>
+                  <p>But the little Application I in<g ref="char:EOLhyphen"/>tend ſhall be to thoſe who will re<g ref="char:EOLhyphen"/>ceive it.</p>
+               </div>
+               <div n="1" type="application">
+                  <p>I. To my Brethren therefore let me addreſs my ſelf. And ſee<g ref="char:EOLhyphen"/>ing God by his Providence hath ſingled out the meaneſt amongſt you to be your Remembrancer, do not ſlight the Meſſage for the Meſ<g ref="char:EOLhyphen"/>ſenger's ſake, but receive it for its <hi>moment's</hi> ſake. God ſpeaks to you by (ſhall I call it) a viſible voice, and ſhould we not anſwer as <hi>Paul</hi> did to Chriſt upon his firſt power<g ref="char:EOLhyphen"/>ful ſpeaking to him. <note place="margin">
+                        <hi>Acts</hi> 9.6.</note> 
+                     <hi>Lord what wilt thou have us to do?</hi>
+                  </p>
+                  <pb n="115" facs="tcp:100800:61"/>
+                  <p n="1">1. <hi>Reflect upon what you have heard, and ſeen of Mr.</hi> Brand. This will requite your ſecond thoughts, the moſt ſedate thoughts, and till they preſent you with a better Me<g ref="char:EOLhyphen"/>thod make uſe of this, <hi>viz. With<g ref="char:EOLhyphen"/>draw</hi> your ſelves as you do for ſe<g ref="char:EOLhyphen"/>cret Devotion, and there with aw<g ref="char:EOLhyphen"/>ful Apprehenſions of God's ſpecial Preſence, thus (or in a more tran<g ref="char:EOLhyphen"/>ſporting manner) beſpeak your own Souls. <hi>O my Soul, here's an Em<g ref="char:EOLhyphen"/>ployment worthy of thy ſelf! Here a Miniſter of Christ indeed!</hi> 
+                     <note place="margin">
+                        <hi>Iſa.</hi> 42.2.</note> 
+                     <hi>Here's one that made no noiſe in the World, but did his Maſter's work in his Ma<g ref="char:EOLhyphen"/>ſter's way! Here's one, whoſe Body, and Soul, and Eſtate, and Intereſt were all vigorouſly laid out for Chriſt!</hi> Is not this Example worthy thy I<g ref="char:EOLhyphen"/>mitation? ſhall no more uſe be made of this, then of a <hi>Squib,</hi> to be thrown away for a blaze, and a <hi>noiſe,</hi> and there's an end of it; or to uſe a better Metaphor, ſhall it be
+<pb n="116" facs="tcp:100800:62"/> only looked upon as a <hi>Prodigy,</hi> to be talkt of for a while, and no<g ref="char:EOLhyphen"/>thing more? No, my Soul. God requires another kind of Improve<g ref="char:EOLhyphen"/>ment. <hi>God's giving me notice of ſuch a Perſon is a Talent I muſt ac<g ref="char:EOLhyphen"/>count for!</hi> Brethren, are you in good earneſt, will you do <hi>thus much?</hi> If ſo; I am ſure your Con<g ref="char:EOLhyphen"/>ſciences will not be quiet till you <hi>do more.</hi>
+                  </p>
+                  <p n="2">2. <hi>Put down in writing what in his Life your Conſciences charge up<g ref="char:EOLhyphen"/>on you to be your Duty to imitate.</hi> I'll ſuppoſe you now in the <hi>Secrets of God's preſence,</hi> wholly taken up with ſuch (as more ſpiritual) So<g ref="char:EOLhyphen"/>liloquies. <hi>This, and that he did, which I do not.</hi> This and that, <hi>he did, otherwiſe than I do.</hi> I can<g ref="char:EOLhyphen"/>not but ſay, <hi>'Tis my Duty as much as his</hi> to fulfil my Miniſtry, where he had <hi>gracious</hi> Ability to diſ<g ref="char:EOLhyphen"/>charge his Office, I may have the
+<pb n="117" facs="tcp:100800:62"/> 
+                     <hi>like</hi> to diſcharge mine. I'll there<g ref="char:EOLhyphen"/>fore put down my <hi>preſent Senti<g ref="char:EOLhyphen"/>ments</hi> of theſe things, and lay them by, for further Meditation and Prayer.</p>
+                  <p n="3">3. <hi>Every day review what you have written; do it with Medita<g ref="char:EOLhyphen"/>tion and Prayer.</hi> Where you left it the day before, endeavour to take it up with the ſame (or greater) Senſe of being concern'd for the Souls of thoſe to whom God ſends you, he hath done much; it cannot be denied, but what hath been done, may be done. Here's one gave up himſelf more entirely to God, and to do good than I have yet done. What, though his worldly Eſtate was better than mine, ſhall I therefore imitate him in nothing? What! do nothing more than I did before! Think of it and pray over it again, and lay it by again, till it be <hi>ripe</hi> for a Re<g ref="char:EOLhyphen"/>ſolution.</p>
+                  <pb n="118" facs="tcp:100800:63"/>
+                  <p n="4">4. <hi>Take it up again, and read it over, and pray it over, and think it over, with ſubſtracting, adding, altering</hi> as upon the moſt <hi>mature</hi> deliberation the Matter requires, and then bring it to a <hi>ſerious, humble,</hi> and <hi>temporary</hi> Reſolution; and whether you will bring that <hi>Reſolution</hi> under another refining. I ſubmit it to you, but when it hath come under your laſt hand mould it into a <hi>Cautious, Self-dying, Tempo<g ref="char:EOLhyphen"/>rary Vow:</hi> You know my Bre<g ref="char:EOLhyphen"/>thren better than I, that <hi>well com<g ref="char:EOLhyphen"/>poſed</hi> Vows are extraordinarily helpful for the doing of extraor<g ref="char:EOLhyphen"/>dinary Service, and they are or<g ref="char:EOLhyphen"/>dinarily bleſſed with more than or<g ref="char:EOLhyphen"/>dinary Succeſs, but the Succeſs depends much upon the <hi>manner</hi> of their compoſition. I have named three Qualifications, which muſt be inſeparable, namely, <hi>Cautious,</hi> for <hi>raſh</hi> Vows <hi>involve</hi> the Soul in
+<pb n="119" facs="tcp:100800:63"/> dreadful Perplexities, that many gracious Perſons never extricate themſelves while they live. And they muſt not only be Cautious, but <hi>Self-denying.</hi> I think I may ſay 'tis univerſally true, without ſo much as one exception, that a <hi>Self con<g ref="char:EOLhyphen"/>fident Vow is always broken.</hi> What we undertake in our own ſtrength, God not only in <hi>Juſtice,</hi> but in <hi>Mercy</hi> ſhews us our folly; the more we live at a Dependance up<g ref="char:EOLhyphen"/>on God in every thing (in a way of Duty, not of Sloth) the more infallible is our Succeſs: Add one Qualification more, and that is <hi>Temporary</hi> not perpetual; miſtake me not, I am not ſpeaking of <hi>Bap<g ref="char:EOLhyphen"/>tiſmal</hi> Vows, or of thoſe that make up (as it were) the <hi>Subſtantials</hi> of Religion; but of <hi>prudential</hi> Vows, that help us to the better perform<g ref="char:EOLhyphen"/>ance of ſome ſpecial Duties; it is ſuperfluous to ſpeak here againſt <hi>Popiſh</hi> Vows, the word <hi>Temporary</hi>
+                     <pb n="120" facs="tcp:100800:64"/> excludes them; and well may they be excluded; who exclude all but themſelves from being religious, they call all their own Clergy <hi>Secular, i. e.</hi> worldly, that are not under ſome of their <hi>perpetual</hi> Vows, to them they appropriate the Title of <hi>Regular,</hi> and count their Votaries the only Religious among them; but all I aim at is this. Many whoſe <hi>hearts</hi> are ſet for God whoſe <hi>Judgments</hi> are <hi>newly</hi> informed, whoſe <hi>affecti<g ref="char:EOLhyphen"/>ons</hi> are <hi>warmly</hi> engaged, and whoſe <hi>Conſciences</hi> are <hi>tenderly</hi> convinced that they muſt do their <hi>utmoſt</hi> to get aſſurance of their own Salva<g ref="char:EOLhyphen"/>tion, and then their <hi>utmoſt</hi> to pro<g ref="char:EOLhyphen"/>more the Salvation of others, and they would fain have the ſame <hi>Im<g ref="char:EOLhyphen"/>preſſion</hi> abide upon their Spirits without <hi>any</hi> abatement; and there<g ref="char:EOLhyphen"/>fore they bind themſelves to ſuch <hi>Severities</hi> of Religion, that the <hi>Change</hi> of Providence render <hi>im<g ref="char:EOLhyphen"/>practicable,</hi> and ſo what they in<g ref="char:EOLhyphen"/>tended
+<pb n="121" facs="tcp:100800:64"/> to be a <hi>furtherance</hi> proves a <hi>hindrance</hi> of the end they de<g ref="char:EOLhyphen"/>ſigned: Therefore let your <hi>Vow</hi> be <hi>Temporary,</hi> and do by it, as you do by a Leaſe near its expira<g ref="char:EOLhyphen"/>tion, renew it again, with what alteration of Circumſtances is ne<g ref="char:EOLhyphen"/>ceſſary, <hi>without any abatement of the ſubſtance of your vow.</hi>
+                  </p>
+                  <p>My Brethren, I pretend not to teach you; this is all I aim at I beg of you to do <hi>ſomething more after the propoſing of this Example, than you did before the propoſing of it, what</hi> to do, and <hi>how</hi> to ſecure the <hi>manner</hi> and the <hi>continuance</hi> of do<g ref="char:EOLhyphen"/>ing it, I leave wholly to your ſelves, and to the Spirit's directi<g ref="char:EOLhyphen"/>on, I only beg, <hi>that this Example may not be loſt to you.</hi>
+                  </p>
+               </div>
+               <div n="2" type="application">
+                  <pb n="122" facs="tcp:100800:65"/>
+                  <p>II. To private Chriſtians; ſo far as what I have offered to my Brethren is ſuitable to your Station, make Conſcience of it; But add,</p>
+                  <p n="1">1. <hi>Improve Miniſters while you have them,</hi> you cannot but be ſenſible, God is removing them apace, and which of you hath not ſaid over ſome Miniſters of your particular acquaintance, <hi>had I thought God would have taken them away ſo ſoon, I would have better improved my acquaintance.</hi> Do it now with thoſe that remain, make the beſt you can of them, all manner of ways. In hearing of them, <hi>avoid two Rocks,</hi> be neither <hi>wanton,</hi> nor <hi>cenſorious;</hi> do not <hi>ſwallow</hi> all you receive like Pills without chewing, becauſe you eſteem the Preacher, nor <hi>Wyer-draw</hi> what is delivered, becauſe of prejudice. Do not re<g ref="char:EOLhyphen"/>fuſe wholeſome Truths, becauſe
+<pb n="123" facs="tcp:100800:65"/> they are not <hi>dreſt</hi> up to your li<g ref="char:EOLhyphen"/>king: Nor commend what is blame worthy becauſe it <hi>ſuits</hi> your humor. How <hi>many better then your ſelves would welcome what you nauſeate.</hi> Many hungry Souls would count your Orts a Feaſt; in ſhort, if you did but conſider this one thing in Mr. <hi>Brand</hi>'s ordinary compoſing of his Sermons: Surely 'twould make you cautious of hearing of Sermons ever after, namely, the more then ordinary time that he ſpent in Prayer, methinks it doth as it were naturally prompt you to be proportionably much in Prayer, that the word preached may be ſavingly profitable. Chriſtians I propoſe it to your Conſciences, whether ſerious praying, ſecret prayer <hi>before and after every Ser<g ref="char:EOLhyphen"/>mon you hear, would not do much to cure you of your faults of both hearing and practiſe.</hi> Though we <hi>trifle</hi> with <hi>Men,</hi> we <hi>dare</hi> not do
+<pb n="124" facs="tcp:100800:66"/> ſo with God. A few <hi>ſerious Mi<g ref="char:EOLhyphen"/>nutes</hi> with God <hi>before</hi> and <hi>after</hi> a Sermon, pray, try, <hi>whether 'twill not work Wonders.</hi>
+                  </p>
+                  <p n="2">2. <hi>Acquaint your ſelves more fa<g ref="char:EOLhyphen"/>miliarily with ſome one, or more Miniſters, that you have or may find ſpecially beneficial to your Soul.</hi> Though there's no ſufficient Scrip<g ref="char:EOLhyphen"/>ture-warrant for a <hi>Popiſh</hi> Confeſſor to have <hi>a Key to your Conſcience for ſecular Advantage,</hi> yet there's ſufficient warrant for Chriſtians to <hi>ask</hi> and <hi>Miniſters not to dare to deny particular Advice</hi> and En<g ref="char:EOLhyphen"/>couragement in all <hi>emergent Caſes.</hi> Where <hi>Paſtors</hi> and <hi>People</hi> are <hi>duly</hi> communicative for ends <hi>purely</hi> Spiritual, 'Tis no <hi>ſmall</hi> advantage to both: Miniſters may learn <hi>as much to help their</hi> Preaching, <hi>as</hi> People may learn <hi>to guide their Practiſe.</hi> But,</p>
+                  <pb n="125" facs="tcp:100800:66"/>
+                  <p n="3">3. <hi>Do not trouble your Miniſters with things remote from practical Caſes of Conſcience, but about your own preſent Duty.</hi> Chriſtians I would <hi>charge</hi> you to weigh <hi>every</hi> word in this direction; do not trouble your Miniſters, by divert<g ref="char:EOLhyphen"/>ing them and your ſelves from what's of moment to what's trivial, (unleſs it be when it may be a Duty to unbend their Bow, for refreſhing their tired Spirits) however pleaſant it may ſeem to be, 'twill be a <hi>Trouble</hi> to review. Then let it be <hi>your</hi> Miniſters, ſome run up and down, and ſettle no where, who are at beſt but like thoſe <hi>Deer</hi> that leap over the Pales, who though they meet with better Paſture then the Park af<g ref="char:EOLhyphen"/>fords, yet they are leaner than thoſe that ſtay in their Encloſure. Such planetary Chriſtians, though they converſe with worthy Mini<g ref="char:EOLhyphen"/>ſters,
+<pb n="126" facs="tcp:100800:67"/> yet 'tis ordinarily about things remote from what is ſpi<g ref="char:EOLhyphen"/>ritually profitable, they will ask Problematical Queſtions, and be ſure like the <hi>Lapwing</hi> to make the greateſt noiſe far from their Neſt; they will not come near any thing that comes near their Conſcience, but all the words they ſpeak are ſuch as Chriſt calls <hi>unprofitable,</hi> 
+                     <note place="margin">
+                        <hi>Mat.</hi> 12.36,37.</note> i.e. neither they, nor others can profit any thing by them; whereas your diſcourſe with Miniſters ſhould al<g ref="char:EOLhyphen"/>ways be of what may properly enough be called a Caſe of Con<g ref="char:EOLhyphen"/>ſcience; their buſineſs, and their very Recreations ſhould be redu<g ref="char:EOLhyphen"/>cible to Caſes of Conſcience, and that not only Caſes of Conſcience, but <hi>practicable</hi> Caſes of Conſcience; not <hi>Caſes</hi> like the <hi>Cobwebs</hi> of the <hi>School-men,</hi> finely ſpun but of no uſe, but of thoſe things that con<g ref="char:EOLhyphen"/>cern <hi>Duty.</hi> Notions will not ſave us, we may towre high in Specula<g ref="char:EOLhyphen"/>tion
+<pb n="127" facs="tcp:100800:67"/> and drop into Hell; it ſhould be our Ambition to know words and <note place="margin">
+                        <hi>Acts</hi> 11.14.</note> 
+                     <hi>things whereby we may be ſa<g ref="char:EOLhyphen"/>ved.</hi> And 'tis not enough to know what is Duty; but what is our <hi>own</hi> Duty, we are too apt to re<g ref="char:EOLhyphen"/>member what is ſaid to be others Duty, and to twit them with the neglect of it, when we neglect our own. <hi>Peter</hi> himſelf ſaid to Chriſt, when what he ſpake ſhould have engroſt his thoughts, about his own greateſt concern, <note place="margin">
+                        <hi>Joh.</hi> 21.21,22.</note> 
+                     <hi>Lord, and what ſhall this Man do? Jeſus ſaid unto him, if I will, that he tarry till I come, what is that to thee? follow thou me.</hi> Mind your <hi>own</hi> Duty, to ſeek direction how you may direct thoſe that are un<g ref="char:EOLhyphen"/>der your charge to do their Duty, <hi>that is your Duty,</hi> but do not con<g ref="char:EOLhyphen"/>cern your ſelves with that which doth not concern you, as your <hi>own Duty;</hi> if you do, the <hi>least</hi> harm it doth you, is the neceſſitating
+<pb n="128" facs="tcp:100800:68"/> you to omit your <hi>preſent</hi> Duty, you juſtle out your <hi>preſent</hi> Duty; and that is the laſt thing I mention<g ref="char:EOLhyphen"/>ed in this Direction. <hi>Let your Enquiry always be about your pre<g ref="char:EOLhyphen"/>ſent Duty;</hi> you will find this to ſhake off many Impertinencies; this will contract your work into a narrow compaſs; this will facili<g ref="char:EOLhyphen"/>tate your greateſt difficulties; for this you may pray in Faith, for God's aſſiſtance and acceptance; the well diſcharge of your preſent Duty, gives you the faireſt hopes, that when that which is your fu<g ref="char:EOLhyphen"/>ture Duty ſhall come to be your preſent Duty, you ſhall graciouſly grow up into a capacity to diſ<g ref="char:EOLhyphen"/>charge it.</p>
+                  <p>I'll name but one thing more;</p>
+                  <p n="4">4. <hi>Exerciſe and evidence your real profiting by the Miniſtry you ſit under, by diſcharging all your relations with ſuitable Godli<g ref="char:EOLhyphen"/>neſs.</hi> You have now your <hi>liberty</hi>
+                     <pb n="129" facs="tcp:100800:68"/> to chooſe what Miniſter you pleaſe; what choice ever you make, let it <hi>not</hi> be with the <hi>deſpiſing</hi> of others; bleſs God for the manifold Gifts and Graces to his and your Ser<g ref="char:EOLhyphen"/>vants, for Chriſt's ſake: Do not confine the Church of Chriſt to a Party, <hi>His little Flock would be a little Flock indeed, ſhould all be ex<g ref="char:EOLhyphen"/>cluded, that do not worſhip him the ſame way.</hi> You chooſe a Paſtor [be ſure it be one whom Chriſt owns as is under Shepherd] you take him to be the fitteſt for you (though he is not ſo to others) do you make it your buſineſs to be the beſt Chriſtians, the beſt Hus<g ref="char:EOLhyphen"/>bands, the beſt Wives, the beſt Pa<g ref="char:EOLhyphen"/>rents, the beſt Children, the beſt Maſters and Miſtreſſes, the beſt Servants, the beſt Neighbours, the beſt Friends, the beſt Dealers, the beſt Companions. Dear Chri<g ref="char:EOLhyphen"/>ſtians be covetous of the beſt Graces, be ambitious of the beſt
+<pb n="130" facs="tcp:100800:69"/> Priviledges to put it beyond doubt<g ref="char:EOLhyphen"/>ing, that you are the Son and Daughters of the moſt high; you are the Children of Adoption, and Heaven is yours by Inheri<g ref="char:EOLhyphen"/>tance. <note place="margin">
+                        <hi>Col.</hi> 2.6,7.</note> 
+                     <hi>As you have therefore re<g ref="char:EOLhyphen"/>ceived Chriſt Jeſus the Lord, ſo walk ye in him. Root'd and built up in him, and ſtabliſhed in the Faith, as ye have been taught, a<g ref="char:EOLhyphen"/>bounding therein with Thankſgi<g ref="char:EOLhyphen"/>ving.</hi>
+                  </p>
+               </div>
+               <div n="3" type="application">
+                  <head>III.</head>
+                  <p>III. To Youth: 'Twas to Young ones Mr. <hi>Brand</hi> delighted to ſpeak (in ſome reſpect) above all others, to theſe was his <hi>Heart</hi> moſt en<g ref="char:EOLhyphen"/>larged, and his <hi>Tongue</hi> moſt fluent, and 'tis to theſe my Tongue and Pen are moſt ſtreightned, my con<g ref="char:EOLhyphen"/>ſciouſneſs to my ſelf of coming ſhort of him in every thing, but moſt in this, of his holy Oratory to Youth, that Text almoſt frights me from ſaying any thing, <hi>Job</hi> 6.15. <hi>How forcible are right words?
+<pb n="131" facs="tcp:100800:69"/> But what doth your arguing avail?</hi> Not but that I am willing to imi<g ref="char:EOLhyphen"/>tate him, and wiſh that my words might be his <hi>Eccho,</hi> in more then repeating, a little of that he hath ſpoken, and longer than for a ſhort time, and with more than a va<g ref="char:EOLhyphen"/>niſhing faintneſs. I heartily wiſh that <hi>the Spirit of God would bring things to your remembrance;</hi> that you might not only thrô ſtrength of <hi>Memory,</hi> but through ſtrength of <hi>Grace,</hi> remember the Counſel he gave you; what Queſtions he put to you upon the Queſtions of your Catechiſm, and what Anſwers he ſo prompted you to make, as to make them your own; what youthful Sins, and Temptations he warned you againſt, and how he preſt you to <hi>early Piety:</hi> How he encouraged you from Chriſt's being the Childrens advocate againſt their captious Accuſers, for fol<g ref="char:EOLhyphen"/>lowing him with <hi>Hoſannahs,</hi> Chriſt
+<pb n="132" facs="tcp:100800:70"/> applying that of the <hi>Pſalmiſt</hi> to them, that <note place="margin">
+                        <hi>Pſal.</hi> 8.2.</note> 
+                     <hi>God by them did ſtill the Enemy and the Avenger,</hi> i. e. they did more to the Detriment of the Devil's Kingdom than moſt others. I hope you will never for<g ref="char:EOLhyphen"/>get, with what <hi>evidence</hi> of Rea<g ref="char:EOLhyphen"/>ſon, with what <hi>warmth</hi> of Affecti<g ref="char:EOLhyphen"/>on, with what <hi>conviction</hi> of Con<g ref="char:EOLhyphen"/>ſcience, he beſpoke you for Chriſt. I hope you cannot but remember, <hi>Here was his Heart, here were his hopes,</hi> here was his ſleeping, wa<g ref="char:EOLhyphen"/>king Thoughts, his <hi>ſleeping</hi> thoughts, his laſt thoughts when he went to ſleep; his <hi>waking</hi> thoughts, his firſt thoughts when he wak'd in the Morning; here was his plodding, praying thoughts; his <hi>plodding</hi> thoughts, how he might do good to the next Gene<g ref="char:EOLhyphen"/>ration; his <hi>praying</hi> thoughts, that God would direct and bleſs unwearied his Endeavours. You know how ſollicitous he was to give you ſuitable Inſtruction, and how
+<pb n="133" facs="tcp:100800:70"/> deſirous that you might drink it in, as the Earth the Rain. In ſhort, I cannot expreſs, pray, do you endeavour, that you may pra<g ref="char:EOLhyphen"/>ctically conceive, how he did as it were travel over you, that might be the Comfort of the pre<g ref="char:EOLhyphen"/>ſent, and the Bleſſing of the next Generation. But now <note place="margin">2 <hi>Kings</hi> 2.3,9.</note> 
+                     <hi>God hath taken away your Maſter from your Head this day;</hi> you ſhall never more <hi>skip</hi> for joy at his approach<g ref="char:EOLhyphen"/>ing preſence; you ſhall never more be <hi>cheared</hi> with his holy Charms; you ſhall never more be provoked by his <hi>irreſiſtible</hi> Per<g ref="char:EOLhyphen"/>ſwaſion. Methinks you can do no leſs then cry to God for (what <hi>Eliſha</hi> askt of <hi>Elijah</hi>) <hi>a double portion of his Spirit,</hi> not twice ſo much as he had <hi>(I know not whether <hi>that</hi> may be expected on this ſide Glory)</hi> but as the firſt<g ref="char:EOLhyphen"/>born in dividing of Inheritances, <hi>twice</hi> ſo much as <hi>any</hi> of the Brethren of the Family, ſo,
+<pb n="134" facs="tcp:100800:71"/> 
+                     <hi>twice ſo much as thoſe who have not had ſuch helps;</hi> You will be great loſers, if your gain be not <hi>proportionable</hi> to your Ta<g ref="char:EOLhyphen"/>lents. Great are our Expecta<g ref="char:EOLhyphen"/>tions from you; if you do not <hi>beſtir</hi> your ſelves to be <hi>exem<g ref="char:EOLhyphen"/>plary</hi> for <hi>Piety</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>ſefulneſs;</hi> good and bad will juſtly blame you; the good will mournfully <hi>bewail</hi> their diſappointment, they are big with hopes, that thoſe who were <hi>the chief</hi> of his <hi>Care</hi> and <hi>Charge</hi> ſhould ſtand up in his ſtead, and make it their bu<g ref="char:EOLhyphen"/>ſineſs to do that by many hands, which he did alone, that the Church may be no loſer by his death. The <hi>bad</hi> will with <hi>triumph ſcorn</hi> you (which is a dreadful way of real blaming of you) as <hi>degenerate</hi> Plants there needed no ſuch coſt and care to make you like them; How will you bear ſuch dagging <hi>upbrai<g ref="char:EOLhyphen"/>dings?</hi> But in ſhort, how will
+<pb n="135" facs="tcp:100800:71"/> you anſwer it to my Maſter? You muſt give another kind of ac<g ref="char:EOLhyphen"/>count to him, than you did to Mr. <hi>Brand;</hi> the account he called you to, was ſuch, that what was <hi>faulty</hi> might be <hi>amended,</hi> and what was <hi>defective</hi> might be <hi>made</hi> up: But when Chriſt ſhall call you to an account (you know not how ſoon that will be) the State of <hi>Preparation</hi> will be <hi>over;</hi> there will be no more (no not a <hi>Minutes</hi>) ſpace for Repentance; no place of rectifying <hi>Miſtakes.</hi> Now, now is your <hi>time,</hi> your only time, your <hi>fleet<g ref="char:EOLhyphen"/>ing, periſhing, expiring</hi> time. There<g ref="char:EOLhyphen"/>fore anſwer the <hi>Convictions</hi> of your own Conſciences; now make Conſcience of the <hi>performing</hi> the Promiſes you have made to <hi>God</hi> and him: Now do that in a way of <hi>Faith</hi> and <hi>Holineſs,</hi> that Chriſt may ſay to you, <hi>Well done good and faithful Servants, enter you into the Joy of your Lord.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="elegies">
+            <pb facs="tcp:100800:72" rendition="simple:additions"/>
+            <head>Elogies were ſent, in all the Languages Chriſt's E<g ref="char:EOLhyphen"/>pitaph was written, (if I may ſo call the Inſcrip<g ref="char:EOLhyphen"/>tion upon his Croſs) but I'll only preſent you with theſe;</head>
+            <div type="acrostic_elegy">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon Reverend Mr. <hi>Brand.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <hi>T</hi> he helpfulleſt of Miniſters and Saints:</l>
+                  <l>
+                     <hi>H</hi> is Work God bleſt with Grace, or with reſtraints.</l>
+                  <l>
+                     <hi>O</hi> n thoſe who felt neither of theſe effects:</l>
+                  <l>
+                     <hi>M</hi> uch may they fear, their hardning for neglects.</l>
+                  <l>
+                     <hi>A</hi> ll ſorts who knew him beſt, they him moſt pris'd.</l>
+                  <l>
+                     <hi>S</hi> trangers alone they were who him deſpis'd.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>B</hi> ehold, Report, Admire, never Diſdain:</l>
+                  <l>
+                     <hi>R</hi> ead'ly to imitate him Heaven to gain.</l>
+                  <l>
+                     <hi>A</hi> ll worldly Happineſs, it ſhrinks before:</l>
+                  <l>
+                     <hi>N</hi> ever to vy in competition more:</l>
+                  <l>
+                     <hi>D</hi> eath is at hand to open you the Door.</l>
+               </lg>
+               <lg>
+                  <l>t' a Wake, eXhort, proVokes the Vſe o'th' Story,</l>
+                  <l>
+                     <hi>DeCeMber</hi> the firſt he Was taken to Glory.</l>
+                  <closer>
+                     <signed>
+                        <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. A.</signed>
+                  </closer>
+               </lg>
+            </div>
+            <div type="elegy">
+               <head>
+                  <g ref="char:V">Ʋ</g>pon Reverend Mr. <hi>Brand.</hi>
+               </head>
+               <lg>
+                  <l>WHen Primitive Devotion, Zeal and Love</l>
+                  <l>Fled back to th' Ark like <hi>Noah</hi>'s weary Dove,</l>
+                  <l>Heav'n left ſome Sparks behind, to let us ſee</l>
+                  <l>What once we were and ſtill we ought to be;</l>
+                  <l>Some few good Men, and this was one, to ſave</l>
+                  <l>A ſinking World, not only juſt but brave:</l>
+                  <l>Nobly he ſtemm'd the Tide; vaſt Seas roll by</l>
+                  <l>And daſh the Rock, but could not mount ſo high:</l>
+                  <l>The firm Foundation could not ſink or ſtart,</l>
+                  <l>'Twas deep and ſure, a meek and humble Heart.</l>
+                  <l>The noiſy Bar the Road to Wealth and Fame</l>
+                  <l>He ſhuns thoſe gawdy Toys below his aim,</l>
+                  <l>The deſpiſ'd Goſpel all his Thoughts did claim:</l>
+                  <l>Nor raſhly did the ſacred Charge invade,</l>
+                  <l>He choſe it as an Office, not a Trade,</l>
+                  <l>Trembling the weighty Task he undertook,</l>
+                  <l>But when engag'd did never backward look.</l>
+                  <l>His Zeal alike well plac'd and well deſign'd;</l>
+                  <l>Neither luke-warm, nor raging, cold nor blind:</l>
+                  <l>Sworn to no Party, in no Intereſt he</l>
+                  <l>But that of common Chriſtianity.</l>
+                  <pb facs="tcp:100800:72"/>
+                  <l>So ſweet, ſo affable, his Mind, and Face,</l>
+                  <l>He prov'd, Good-nature was no Foe to Grace.</l>
+                  <l>His Charity, like Heav'ns, confin'd to none;</l>
+                  <l>Not, even the worſt but ſhar'd his Rain and Sun,</l>
+                  <l>Tho' with a kinder Influence ſtill he view'd</l>
+                  <l>Thoſe few, who ſpite o'th' Faſhion, dared be good.</l>
+                  <l>Improv'd ev'n old Diſciples, gain'd the young,</l>
+                  <l>And dropt Inſtruction from his ſilver Tongue.</l>
+                  <l>Theſe had his Soul, and his true Friendſhip try'd,</l>
+                  <l>With theſe he pray'd, for theſe he liv'd and dy'd.</l>
+                  <l>Lov'd 'em ſo well, that when Heav'n call'd away</l>
+                  <l>Almoſt he's in a ſtrait to go or ſtay.</l>
+                  <l>Till Meditation did the Clouds remove</l>
+                  <l>And ſhow'd the Glories of tho Bleſt above.</l>
+                  <l>What Manſions in his Fathers-houſe prepar'd,</l>
+                  <l>What Joys by Mortals never ſeen nor heard:</l>
+                  <l>Then like the Hart whom the hot Chaſe invades,</l>
+                  <l>Who plunges in the Brook from his lov'd ſhades,</l>
+                  <l>His thirſty Soul breaks out with eager haſt</l>
+                  <l>And finds thoſe Streams of Bliſs he dy'd to taſte.</l>
+               </lg>
+               <closer>
+                  <signed>S. W.</signed>
+               </closer>
+            </div>
+            <div type="elegy">
+               <head>Upon the Death of the Reverend Mr. <hi>Thomas Brand.</hi>
+               </head>
+               <lg n="1">
+                  <head>I.</head>
+                  <l>DEath <hi>Commands</hi> ſilence; but <hi>his</hi> Death <hi>Forbids:</hi>
+                  </l>
+                  <l>He <hi>Dead</hi> muſt <hi>Speak</hi> by his <hi>ſurviving Deeds;</hi>
+                  </l>
+                  <l>Whoſe <hi>Life</hi> was <hi>Action,</hi> and his <hi>Actions</hi> Life;</l>
+                  <l>Purg'd from <hi>Dead</hi> Works; in <hi>Vital</hi> Iſſues Rife:</l>
+                  <l>When once the <hi>Quick'ning Spirit</hi> from above</l>
+                  <l>Breath'd in a <hi>Living Faith,</hi> and <hi>Active Love:</hi>
+                  </l>
+                  <l>But <hi>Slew</hi> him firſt; while to his <hi>Naked Eye</hi>
+                  </l>
+                  <l>It did preſent that <hi>Dreadful Majeſty,</hi>
+                  </l>
+                  <l>Which put him to <hi>Iſaiah</hi>'s <hi>doleful Cry.</hi>
+                  </l>
+                  <l>
+                     <hi rend="blackletterType">His Lips unclean, and</hi> 
+                     <hi rend="blackletterType">Their's amongſt</hi> 
+                     <hi rend="blackletterType">whom he dwelt,</hi>
+                  </l>
+                  <l>
+                     <hi>Himſelf undone;</hi> till the <hi>Live Coal</hi> he felt</l>
+                  <l>From off God's Altar, <hi>purging Sin</hi> away,<note place="margin">
+                        <hi>Iſa.</hi> 6.</note>
+                  </l>
+                  <l>Then anſwer'd, <hi>Here I am, ſend me,</hi> I pray.</l>
+                  <l>Our <hi>Goſpel-Altar</hi> gave that <hi>Holy Fire,</hi>
+                  </l>
+                  <l>Which to a <hi>Goſpel-Temple</hi> did <hi>aſpire:</hi>
+                     <note place="margin">
+                        <hi>Pag.</hi> 7.</note>
+                  </l>
+                  <l>That of our <hi>Law</hi> no longer could <hi>content;</hi>
+                  </l>
+                  <l>
+                     <hi>Seraphick Love</hi> muſt on <hi>God</hi>'s <hi>Work</hi> be ſent.</l>
+                  <l>And <hi>ſent</hi> he was much like another <hi>Paul,</hi>
+                  </l>
+                  <l>Struck down, he Heard, Reviv'd, Roſe at <hi>Chriſt</hi>'s <hi>Call;</hi>
+                  </l>
+                  <l>Amongſt his Brethren <hi>Labour'd</hi> more than all.</l>
+               </lg>
+               <pb facs="tcp:100800:73"/>
+               <lg n="2">
+                  <head>II.</head>
+                  <l>To's <hi>Father</hi>'s <hi>Name,</hi> or <hi>Church</hi> was no <hi>Diſgrace;</hi>
+                  </l>
+                  <l>None he would <hi>do:</hi> Had no deſire to <hi>Raſel</hi>
+                  </l>
+                  <l>Whilſt <hi>Build</hi> he might not, in his Father's place:</l>
+                  <l>Who <hi>Dignify</hi>'d by her, yet far <hi>outvy'd</hi>
+                  </l>
+                  <l>That Grace, and her more highly <hi>Dignify'd</hi>
+                  </l>
+                  <l>By ſuch a <hi>Son:</hi> Whom (ah!) ſhe had not <hi>known,</hi>
+                  </l>
+                  <l>When in a Croud, ſhe did <hi>him</hi> too <hi>diſown:</hi>
+                  </l>
+                  <l>Had ſhe <hi>foreſeen,</hi> ſure, for <hi>his ſake</hi> alone,</l>
+                  <l>Black <hi>Barth'l'mew</hi> had never <hi>Outed</hi> one.</l>
+                  <l>But he his <hi>Filial Duty</hi> ne'er forgot;</l>
+                  <l>No more <hi>her Name,</hi> than <hi>his own Soul</hi> would blot:</l>
+                  <l>
+                     <hi>Strokes,</hi> aim'd at her, he'd with his Peril <hi>Ward;</hi>
+                  </l>
+                  <l>And to her <hi>Worthies</hi> paid a juſt <hi>Regard;</hi>
+                  </l>
+                  <l>
+                     <hi>Nor Brib'd;</hi> Whilſt he with Generous <hi>Content</hi>
+                  </l>
+                  <l>Her <hi>Titles</hi> mis'ſt, his own fair <hi>Income</hi> ſpent,</l>
+                  <l>Not <hi>Held</hi> of her; yet <hi>Turned</hi> to <hi>her <g ref="char:V">Ʋ</g>ſe:</hi>
+                  </l>
+                  <l>For that's <hi>True Schiſm,</hi> and the <hi>worſt Abuſe,</hi>
+                  </l>
+                  <l>Which Vogues <hi rend="blackletterType">Our Church</hi> not <hi>ſerved, but undone;</hi>
+                  </l>
+                  <l>When Souls to <hi rend="blackletterType">Chriſt's</hi> by <hi>all apt means</hi> are wone.</l>
+               </lg>
+               <lg n="3">
+                  <head>III.</head>
+                  <l>This his <hi>grand Project;</hi> this his <hi>ſingle Aim</hi>
+                  </l>
+                  <l>Not ty'd to <hi>Party, Intereſt,</hi> or <hi>Name:</hi>
+                  </l>
+                  <l>The <hi>Chriſtian Sum</hi> with <hi>differing</hi> ſide <hi>agreed,</hi>
+                  </l>
+                  <l>In God's <hi>Ten Words, Chriſt's Pray'r,</hi> the <hi>Apoſtle's Creed:</hi>
+                  </l>
+                  <l>No <hi>Fire-brand</hi> but a burning, ſhining <hi>Light,</hi>
+                  </l>
+                  <l>His <hi>Love</hi> as fervent as his <hi>Knowledge</hi> bright:</l>
+                  <l>This <hi>Pufft</hi> not up his Mind; That <hi>Edify'd</hi>
+                  </l>
+                  <l>
+                     <hi>His,</hi> and who knows, how many <hi>Souls</hi> beſide?</l>
+                  <l>His <hi>Tongue, Feet, Hand,</hi> and even <hi>Purſe</hi> could Teach:</l>
+                  <l>His Seaſon'd <hi>Speech</hi> would daily hourly <hi>Preach;</hi>
+                  </l>
+                  <l>Yet ſweetly flowing <hi>Charm'd,</hi> and <hi>Chain'd</hi> the Ear,</l>
+                  <l>Whilſt he <hi>could</hi> ſpeak, <hi>ſwift</hi> and <hi>intent</hi> to hear.</l>
+                  <l>What ſome would <hi>ſtories</hi> call, were <hi>Parables,</hi>
+                  </l>
+                  <l>At once to <hi>Pleaſe</hi> and <hi>Profit;</hi> Sacred <hi>Spells,</hi>
+                  </l>
+                  <l>Could <hi>Heav'n</hi> lure down to <hi>Earth, Earth</hi> ralſe to <hi>Heav'n:</hi>
+                  </l>
+                  <l>Such <hi>Help</hi> to Men; Such <hi>Grace</hi> to him was <hi>given!</hi>
+                  </l>
+                  <l>Words, <hi>backs</hi> (and <hi>edg'd</hi>) by his rare Bounty, cou'd</l>
+                  <l>From <hi>Flint</hi> ſupply the <hi>Deſart</hi> with a <hi>Floud.</hi>
+                  </l>
+                  <l>His wiſe <hi>Reproofs,</hi> as <hi>Light'ning</hi> darted in,</l>
+                  <l>Could <hi>melt</hi> hard Hearts, and never <hi>raſe</hi> the Skin;</l>
+                  <l>No <hi>Scar</hi> would make <hi>will out</hi> yet <hi>wrought</hi> the <hi>Cure</hi> within.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.</head>
+                  <l>His Sermon not a <hi>Chance ſtarcht Common place;</hi>
+                  </l>
+                  <l>But drawn to ſuit the <hi>Peoples ſtudied Caſe,</hi>
+                  </l>
+                  <l>From a <hi>Try'd Word,</hi> by <hi>Pray'r,</hi> and ſearching <hi>Thought,</hi>
+                  </l>
+                  <l>With one days <hi>Waiting,</hi> Weekly to be <hi>Taught</hi>
+                  </l>
+                  <l>Himſelf of <hi>God</hi> to <hi>Teach</hi> Men, as he ought.</l>
+                  <pb facs="tcp:100800:73"/>
+                  <l>His <hi>Text</hi> he'd follow home, and <hi>Hearers</hi> too;</l>
+                  <l>What <hi>Preaching</hi> could not, <hi>Conference</hi> might do:</l>
+                  <l>On <hi>all,</hi> and <hi>each</hi> he'd ſpread the Goſpel-Net:</l>
+                  <l>Not only <hi>ſow</hi> at large, but ſingly <hi>ſet.</hi>
+                  </l>
+                  <l>He'd <hi>plow,</hi> or even <hi>dig</hi> the fallow Soil;</l>
+                  <l>
+                     <hi>Plant,</hi> and then <hi>water</hi> with inceſſant Toil:</l>
+                  <l>Would do the Work of an <hi>Evangeliſt,</hi>
+                  </l>
+                  <l>Humbly <hi>Conceal'd</hi> under the <hi>Catechiſt.</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>V.</head>
+                  <l>A Catechiſt <hi>accompliſht</hi> every way,</l>
+                  <l>Truth to <hi>Commend,</hi> as well as to <hi>diſplay:</hi>
+                  </l>
+                  <l>A <hi>Maſter-builder,</hi> who could ſurely lay</l>
+                  <l>The right <hi>Foundation</hi> 'gainſt a <hi>Trying</hi> day.</l>
+                  <l>
+                     <hi>Looſe</hi> Truths, he knew <hi>leſs underſtood,</hi> ſoon <hi>loſt;</hi>
+                  </l>
+                  <l>And <hi>Pulpit</hi>-Summaries too <hi>big</hi> for moſt:</l>
+                  <l>An oft <hi>Rehearſed</hi> Scheme they muſt <hi>retain;</hi>
+                  </l>
+                  <l>Well might <hi>conceive,</hi> what their own Words made <hi>plain:</hi>
+                  </l>
+                  <l>Hardly could <hi>doubt,</hi> what they were brought to <hi>prove;</hi>
+                     <note place="margin">
+                        <hi>Pag.</hi> 48.</note>
+                  </l>
+                  <l>Or from their <hi>undertaken Duty</hi> move;</l>
+                  <l>And leaſt of all, when wrought into their <hi>Love:</hi>
+                  </l>
+                  <l>Perſons he'd <hi>ſingly,</hi> Truths <hi>conjunctly</hi> Teach;</l>
+                  <l>
+                     <hi>Hearers</hi> ſhould <hi>ſpeak</hi> them; and the <hi>People Preach,</hi>
+                  </l>
+                  <l>
+                     <hi>Call'd,</hi> and <hi>Conducted</hi> to a ſound <hi>Reply</hi>
+                  </l>
+                  <l>By <hi>Queſtions fitting</hi> each Capacity.</l>
+                  <l>And well he knew, under ſuch <hi>gentle Rain,</hi>
+                  </l>
+                  <l>"The leaking <hi>Sieve</hi> muſt yet a <hi>Dew</hi> retain;</l>
+                  <l>"And <hi>Fruitleſs</hi> Trees a <hi>Leafie</hi> Verdure gain.</l>
+                  <l>He taught not <hi>Parrots,</hi> nor would whiſper in</l>
+                  <l>Such ſounds, as <hi>empty Heads</hi> ſhould give agen:</l>
+                  <l>Would <hi>ſence</hi> by Words, conveigh with holy ſlight;</l>
+                  <l>Apt <hi>Words</hi> ſuggeſt by ſence conveigh'd aright.</l>
+                  <l>Mind, Conſcience, Will he'd <hi>throughly Catechize;</hi>
+                  </l>
+                  <l>Yet not <hi>Confeſs</hi> the Man; Each power <hi>ſurprize</hi>
+                  </l>
+                  <l>By Chriſtian Wiles for <hi>Chriſt;</hi> with Holy <hi>Paul</hi>
+                  </l>
+                  <l>Would, to <hi>ſave</hi> ſome, become <hi>all</hi> things to <hi>all.</hi>
+                  </l>
+               </lg>
+               <lg n="6">
+                  <head>VI.</head>
+                  <l>He far <hi>above</hi> the World, could yet <hi>deſcry</hi>
+                  </l>
+                  <l>Wiſdom's hid Paths <hi>below;</hi> But <hi>drew</hi> the Eye</l>
+                  <l>Still to attend th' <hi>unerring Pole</hi> above,</l>
+                  <l>By which <hi>himſelf</hi> did ſafely, calmly <hi>move.</hi>
+                  </l>
+                  <l>His <hi>Morning, Evening</hi>-Dews the Word, Praiſe, Pray'r,</l>
+                  <l>(And even theſe a Heavenly <hi>Manna</hi> were)</l>
+                  <l>The Happy <hi>Horſe</hi> ſhould with his <hi>Cloſet</hi> ſhare;</l>
+                  <l>This knew him early oft, long on his <hi>Knees,</hi>
+                  </l>
+                  <l>Conſtant at <hi>ſtudy,</hi> and to him, who ſees</l>
+                  <l>In ſecret often <hi>Faſting,</hi> to prepare</l>
+                  <l>The <hi>Food</hi> of Souls with utmoſt Pains and Care.</l>
+                  <pb facs="tcp:100800:74"/>
+                  <l>There a <hi>John Baptiſt;</hi> Coming thence he'd be</l>
+                  <l>
+                     <hi>Sweet,</hi> like his <hi>Lord,</hi> and innocently <hi>free;</hi>
+                  </l>
+                  <l>
+                     <hi>Wiſe</hi> to win Souls by Chriſtian <hi>Curteſie.</hi>
+                  </l>
+                  <l>Thrice <hi>Happy Orb,</hi> where e're this Sun did ſhine,</l>
+                  <l>Whoſe <hi>Heav'nly Courſe</hi> ſhed Influence divine,</l>
+                  <l>Meted the <hi>Hours,</hi> and number'd out each <hi>Day</hi>
+                  </l>
+                  <l>For all, that would obſerve his <hi>conſtant way:</hi>
+                  </l>
+                  <l>His daily Weekly <hi>Motion;</hi> yea his <hi>Reſt</hi>
+                  </l>
+                  <l>So <hi>Meaſur'd,</hi> they were <hi>Meaſures</hi> for the <hi>Beſt</hi>
+                  </l>
+                  <l>Standing one day, or <hi>going</hi> back had been</l>
+                  <l>A <hi>Miracle,</hi> in him was never ſeen.</l>
+                  <l>
+                     <hi>Heaven</hi>'s Kindneſs in him ſhone to <hi>Good</hi> and <hi>Bad</hi>
+                  </l>
+                  <l>
+                     <hi>Thoſe</hi> his <hi>Light</hi> bleſt, and <hi>theſe</hi> his <hi>Warmth</hi> made <hi>Glad.</hi>
+                  </l>
+                  <l>Forth from his <hi>Native Eaſt</hi> this <hi>kinder</hi> Sun</l>
+                  <l>
+                     <hi>Rejoyc'd</hi> a large, repeated <hi>Courſe</hi> to <hi>run;</hi>
+                  </l>
+                  <l>To <hi>barren Climates</hi> he would gladly bring</l>
+                  <l>Thrô ſmarteſt <hi>Winter-ſtorms</hi> a <hi>Gospel-ſpring:</hi>
+                  </l>
+                  <l>But (ah!) more <hi>ſwift</hi> than <hi>ſtrong</hi> ran out of Breath,</l>
+                  <l>Sunk in a Sea of <hi>Tears,</hi> that wail his <hi>Death;</hi>
+                  </l>
+                  <l>Yet from his <hi>Higheſt South</hi> did not decline;</l>
+                  <l>Set upon Heaven's <hi>Prime Meridian Line:</hi>
+                  </l>
+                  <l>There does, thô <hi>Hid</hi> from us, more brightly <hi>ſhine.</hi>
+                  </l>
+               </lg>
+               <lg n="7">
+                  <head>VII.</head>
+                  <l>But, O the <hi>Light diſperſt</hi> throughout this <hi>Land,</hi>
+                  </l>
+                  <l>(Yea <hi>Life</hi> convey'd) by his <hi>Inſtructive Hand;</hi>
+                  </l>
+                  <l>Which rightly <hi>found</hi> what here he had to <hi>do;</hi>
+                  </l>
+                  <l>
+                     <hi>Writings,</hi> too many were; <hi>Readers</hi> too few:</l>
+                  <l>There he'd Cull out the <hi>Beſt;</hi> Here <hi>all</hi> invite</l>
+                  <l>On <hi>Free-coſt;</hi> or for Colour <hi>ask</hi> their Mite,</l>
+                  <l>Who <hi>Starving,</hi> yet his Treat <hi>accepted</hi> not,<note place="margin">
+                        <hi>Pag.</hi> 57, 58.</note>
+                  </l>
+                  <l>Till they might <hi>ſeem,</hi> at leaſt; to <hi>Pay</hi> their ſhot.</l>
+                  <l>Spred thus the <hi>Sacred Writ</hi> more <hi>common</hi> grew;</l>
+                  <l>Yet, better <hi>known,</hi> was held more <hi>Sacred</hi> too.</l>
+                  <l>None <hi>Bought more</hi> Truth, or <hi>Weightier</hi> than he;</l>
+                  <l>None would leſs <hi>Sell,</hi> or <hi>Give</hi> it out more Free.</l>
+                  <l>The Happy <hi>Scheme,</hi> that Great <hi>Aſſembly</hi> drew,<note place="margin">
+                        <hi>Pag.</hi> 46.</note>
+                  </l>
+                  <l>By <hi>England</hi>'s publick Doctrine wouched <hi>True,</hi>
+                  </l>
+                  <l>By <hi>Ireland</hi>'s Learned Primate voted <hi>beſt,</hi>
+                  </l>
+                  <l>With <hi>Cumber</hi>'s for the <hi>Temple Service</hi> dreſt,</l>
+                  <l>
+                     <hi>Sent</hi> out by Thouſands <hi>lodged</hi> every where,</l>
+                  <l>
+                     <hi>Freely to Teach</hi> God's Knowledge, and his Fear.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII.</head>
+                  <l>That Hundred thouſand times repeated [Call,]</l>
+                  <l>
+                     <hi>Anſwer'd</hi> by Thouſands; yet not <hi>heard</hi> by all;</l>
+                  <l>[Directions] too, with [Now or Never] preſt,</l>
+                  <l>And many more by [Everlaſting Reſt]</l>
+                  <pb facs="tcp:100800:74"/>
+                  <l>
+                     <hi>Commended</hi> he from the Great <hi>Baxter</hi>'s <hi>Pen</hi>
+                  </l>
+                  <l>Spred in an Age how <hi>bleſt</hi> with two ſuch Men!</l>
+                  <l>He, at the <hi>Head</hi> of Twenty thouſand [Guides]<note place="margin">
+                        <hi>Pag.</hi> 55.</note>
+                  </l>
+                  <l>Drew after thoſe as many <hi>more</hi> beſides;</l>
+                  <l>All Offering <hi>Freely,</hi> or at <hi>loweſt Price,</hi>
+                  </l>
+                  <l>To lead Men to the <hi>Heavenly Paradiſe.</hi>
+                  </l>
+                  <l>
+                     <hi>Pink, Caley, Wade, Dent,</hi> [<hi>Scudder</hi>'s Daily Walk]<note place="margin">
+                        <hi>Pag.</hi> 56.</note>
+                  </l>
+                  <l>With [<hi>Reyner</hi>'s Rule] and (to prevent a <hi>Balk</hi>)</l>
+                  <l>The [Vindication] of that Godlineſs,</l>
+                  <l>They <hi>Teach,</hi> ſome <hi>Mock,</hi> few <hi>Live;</hi> thô moſt profeſs:</l>
+                  <l>Theſe giv'n to make Men Practically <hi>Wiſe;</hi>
+                     <note place="margin">
+                        <hi>Pag.</hi> 57.</note>
+                  </l>
+                  <l>To ſuch a <hi>Word Polemick</hi> might <hi>ſuffice;</hi>
+                  </l>
+                  <l>
+                     <hi>Pool</hi> againſt that which <hi>Moſt, Worſt</hi> Errors does comprize.</l>
+                  <l>With <hi>more</hi> and <hi>larger Volumes,</hi> ſhowing forth</l>
+                  <l>At once their <hi>Authors,</hi> and the <hi>Donor's worth:</hi>
+                  </l>
+                  <l>Some in the <hi>Plainer Dreſs</hi> of Charity;</l>
+                  <l>Others to <hi>Court Acceptance</hi> by the Eye:</l>
+                  <l>Here <hi>Golden Drops;</hi> but there a <hi>Learned Show'r</hi>
+                  </l>
+                  <l>Into ſome <hi>Students</hi> Laps he'd frankly pour.</l>
+               </lg>
+               <lg n="9">
+                  <head>IX.</head>
+                  <l>His <hi>Purſe</hi> as free, as were his conſtant <hi>Pains;</hi>
+                  </l>
+                  <l>Souls to <hi>deliver</hi> from their Captive Chains:</l>
+                  <l>On froward <hi>Patients,</hi> backward <hi>Clients.</hi> He</l>
+                  <l>Would rare <hi>Advice</hi> bind with as <hi>rare</hi> a <hi>Fee,</hi>
+                  </l>
+                  <l>Anſwer'd their <hi>Need,</hi> or honour'd their <hi>Degree.</hi>
+                  </l>
+                  <l>Whilſt he the <hi>Body</hi> fed; Twice <hi>Welcome</hi> Gueſt,</l>
+                  <l>Whoſe <hi>Soul</hi> would <hi>Welcome</hi> its Preſented <hi>Feaſt!</hi>
+                  </l>
+                  <l>They whom his Coſt could fit for an <hi>Employ</hi>
+                  </l>
+                  <l>
+                     <hi>Civil,</hi> or <hi>Sacred,</hi> were his <hi>Crown</hi> his <hi>Joy.</hi>
+                  </l>
+                  <l>The <hi>Care</hi> and <hi>Charge</hi> of num'cous <hi>Churches</hi> he</l>
+                  <l>
+                     <hi>Suſtained</hi> by <hi>Apoſtilick</hi> Charity;</l>
+                  <l>As firſt he <hi>rais'd</hi> the People, Paſtor, <hi>Place,</hi>
+                  </l>
+                  <l>Which oft his Pains would <hi>help,</hi> his Preſence <hi>grace.</hi>
+                  </l>
+                  <l>The <hi>Catechiſt</hi> he <hi>planted</hi> every where;</l>
+                  <l>And oft would <hi>be,</hi> throughout his ample <hi>Sphere.</hi>
+                  </l>
+                  <l>
+                     <hi>Hir'd</hi> not a few to <hi>Teach,</hi> more to be <hi>Taught;</hi>
+                  </l>
+                  <l>
+                     <hi>Books</hi> for the moſt, and <hi>Time</hi> for many Bought,</l>
+                  <l>Outdoing <hi>Mammer's Pay,</hi> the Poor had earn'd,</l>
+                  <l>While they <hi>God's Work</hi> (their Chriſtian <hi>Calling</hi>) Learn'd:</l>
+                  <l>Conform to Chriſt, He, <hi>to enrich</hi> the Poor,</l>
+                  <l>Made himſelf <hi>ſo;</hi> Would ſtill <hi>exhauſt</hi> his ſtore;</l>
+                  <l>As that <hi>came</hi> on, his Bounty did <hi>advance;</hi>
+                  </l>
+                  <l>Reſerving but the <hi>Entail'd Inheritance,</hi>
+                  </l>
+                  <l>A Root of <hi>Growing</hi> Liberality,</l>
+                  <l>Which, whilſt he <hi>liv'd,</hi> was certain not to <hi>Die:</hi>
+                  </l>
+                  <l>(May but his <hi>Spirit</hi> with that <hi>Mantle</hi> go;</l>
+                  <l>And <hi>Charity</hi> ſhall never fail <hi>below.</hi>
+                  </l>
+                  <pb facs="tcp:100800:75"/>
+                  <l>His Income, all <hi>Return'd</hi> each Year above,</l>
+                  <l>
+                     <hi>Put out</hi> to Uſe by Acts of <hi>Faith,</hi> and <hi>Love,</hi>
+                  </l>
+                  <l>He's now admiring in its <hi>vaſt Encreaſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Made ſure</hi> for ever, <hi>Crown'd</hi> with joyful Peace.</l>
+               </lg>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>How <hi>Bleſſed</hi> he, who <hi>only</hi> would <hi>receive</hi>
+                  </l>
+                  <l>Of Heaven's <hi>Free Gift,</hi> that he might <hi>freely give:</hi>
+                  </l>
+                  <l>God's <hi>Almoner,</hi> a <hi>Biſhop</hi> thô no <hi>Peer,</hi>
+                  </l>
+                  <l>[To <hi>Church,</hi> and <hi>Poor</hi> a <hi>Juſt,</hi> kind <hi>Overſeer.</hi>]</l>
+                  <l>He knew his <hi>Order free</hi> for Marriage-bands;</l>
+                  <l>Was <hi>Free</hi> in them; they could not <hi>Tie</hi> his hands:</l>
+                  <l>A <hi>Match</hi> (for him by Heaven's Care <hi>deſign'd</hi>)</l>
+                  <l>He found <hi>Well-fitted</hi> to his Generous Mind:</l>
+                  <l>Thus, <hi>Clear</hi> of Popiſh, feigned <hi>Chaſtity,</hi>
+                  </l>
+                  <l>Did ev'n their <hi>Fame</hi> of Charity outvy:</l>
+                  <l>Thô <hi>
+                        <gap reason="illegible" resp="#OXF" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> can ſcarce be told, his <hi>Right-hand</hi> did,</l>
+                  <l>Which from his <hi>Left</hi> induſtriouſly was <hi>Hid.</hi>
+                  </l>
+                  <l>
+                     <hi>Children</hi> he had; Born, not for <hi>Earth,</hi> but <hi>Heav'n;</hi>
+                  </l>
+                  <l>To him, that <hi>gave</hi> them, ſo intirely <hi>given;</hi>
+                  </l>
+                  <l>The <hi>Covenant</hi> for them, ſo <hi>Improv'd</hi> and <hi>Preſt,</hi>
+                  </l>
+                  <l>God took them <hi>Early Ripe</hi> to Endleſs <hi>Reſt.</hi>
+                  </l>
+                  <l>Thus, was he ſtill <hi>Surviving</hi> Glorify'd;</l>
+                  <l>
+                     <hi>He</hi> walke, <hi>his</hi> liv'd with God: And when he dy'd,</l>
+                  <l>Left a <hi>Name better</hi> than of <hi>Children</hi> here;</l>
+                  <l>Souls <hi>Born</hi> to God, and <hi>Nurtur'd</hi> in his Fear.</l>
+               </lg>
+               <lg n="11">
+                  <head>XI.</head>
+                  <l>
+                     <hi>His</hi> Care for Heaven was: <hi>He</hi> Heaven's Care;<note place="margin">
+                        <hi>Pag.</hi> 62, 64.</note>
+                  </l>
+                  <l>None ſhould be <hi>ſet;</hi> or he <hi>eſcape</hi> the Snare:</l>
+                  <l>Once <hi>Way-laid,</hi> to be ſeiz'd <hi>Hell</hi>'s Priſoner;</l>
+                  <l>Made <hi>Heaven</hi>'s, at <hi>Large,</hi> juſt till the Coaſt was <hi>clear:</hi>
+                  </l>
+                  <l>'Twas fit <hi>His Feet</hi> ſhould hold their <hi>Liberty;</hi>
+                  </l>
+                  <l>Whoſe Tongue, Hand, Purſe, to Hell's deſpite were free</l>
+                  <l>But (Ah!) He <hi>ſpent</hi> himſelf too Laviſhy:</l>
+                  <l>His Body <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>'d not <hi>Reſpite,</hi> ſcarce <hi>Repair;</hi>
+                  </l>
+                  <l>
+                     <hi>Souls</hi> did ſo far <hi>Engroſs</hi> his <hi>Time</hi> and <hi>Care.</hi>
+                  </l>
+                  <l>Till, forced <hi>leſs to Work,</hi> he ſeem'd <hi>Confin'd;</hi>
+                  </l>
+                  <l>Earth grew a <hi>Priſon</hi> to his Heav'nly Mind:</l>
+                  <l>His Three Years <hi>Weakneſs,</hi> and continued <hi>Pain</hi>
+                  </l>
+                  <l>Hung on his <hi>active</hi> Soul, a heavy <hi>Chain;</hi>
+                  </l>
+                  <l>Fo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>'d in the <hi>Feverish Fire</hi> of Native heat,</l>
+                  <l>By <hi>Pious</hi> Travel rous'd, enrag'd by <hi>Damping</hi> Wet:</l>
+                  <l>His Legs, now Fetter'd, <hi>Swell;</hi> Thrô ev'ry Part</l>
+                  <l>
+                     <hi>Pain</hi> ran, in vain <hi>Purſu'd</hi> by Medick Art;</l>
+                  <l>Yea thô it ſometimes made a <hi>daring Halt,</hi>
+                  </l>
+                  <l>As from his <hi>Side</hi> the <hi>Vitals</hi> to <hi>Aſſault;</hi>
+                  </l>
+                  <pb facs="tcp:100800:75"/>
+                  <l>Or <hi>fixed</hi> like (thô ſince 'tis fully known</l>
+                  <l>
+                     <hi>His Temperament</hi> had nothing of) the <hi>Stone:</hi>
+                  </l>
+                  <l>An <hi>Aſthma</hi> too Eſſay'd to ſtop his Breath</l>
+                  <l>What <hi>Skill</hi> could Looſe ſuch <hi>Twiſted Bands</hi> of Death?</l>
+               </lg>
+               <lg n="12">
+                  <head>XII.</head>
+                  <l>He <hi>meekly</hi> follow'd as his <hi>Captain</hi> Led;</l>
+                  <l>In <hi>doing,</hi> and by <hi>Suffering</hi> Perfected:</l>
+                  <l>
+                     <hi>Sence</hi> overwhelm'd, <hi>Faith</hi> was his Eaſe, and Reſt:</l>
+                  <l>His <hi>Soul,</hi> in <hi>Patience</hi> quietly poſſeſt,</l>
+                  <l>Humbly <hi>ador'd</hi> God's Love and <hi>long'd</hi> to ſee</l>
+                  <l>The <hi>Face</hi> ſo ſought by Faith, Hope, Charity</l>
+                  <l>He <hi>Greateſt</hi> in this <hi>Greateſt</hi> of the Three.</l>
+                  <l>Miſgiving <hi>Fear</hi> could not his <hi>Torment</hi> prove.</l>
+                  <l>Who was ev'n <hi>here</hi> ſo Perfect grown in <hi>Love:</hi>
+                  </l>
+                  <l>When <hi>Work</hi> he might not; Fain he'd go to <hi>Reſt;</hi>
+                  </l>
+                  <l>Could chooſe to be <hi>Diſſolv'd,</hi> as far the <hi>Beſt:</hi>
+                  </l>
+                  <l>
+                     <hi>Prepar'd,</hi> as one <hi>Wiſe</hi> even to <hi>Preſage</hi>
+                  </l>
+                  <l>That <hi>Midnight-Cry,</hi> which <hi>C<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>'d</hi> him off the <hi>Stage</hi>
+                  </l>
+                  <l>Who, <hi>like</hi> his <hi>Saviour,</hi> (thrô him Crucify'd.)</l>
+                  <l>But <hi>Eaſier</hi> far, a <hi>Bleeding Victor</hi> dy'd;</l>
+                  <l>And went in <hi>Triumph</hi> to Heav'n's <hi>Wedding-Feaſt</hi>
+                  </l>
+                  <l>If <hi>Love</hi> be <hi>Welcome</hi> there, a <hi>Welcome Gueſt.</hi>
+                  </l>
+                  <l>The <hi>Honour</hi> due to ſuch a Memory</l>
+                  <l>Muſt lay a <hi>Tax</hi> on all <hi>Poſterity:</hi>
+                  </l>
+                  <l>A Minor <hi>Prophet</hi> and a far leſs <hi>Poet</hi>
+                  </l>
+                  <l>For his own <hi>Age</hi> alone can never ſhow it:</l>
+                  <l>Men, Chriſtians, Miniſters, ſo many <hi>Made,</hi>
+                  </l>
+                  <l>More by his means <hi>Improv'd,</hi> yet more <hi>Eſſay'd;</hi>
+                  </l>
+                  <l>With all, who <hi>Owe</hi> a <hi>Service</hi> to that <hi>Lord</hi>
+                  </l>
+                  <l>He ſo well <hi>Serv'd;</hi> ſhould their <hi>beſt Aids</hi> afford,</l>
+                  <l>His <hi>Name</hi> with juſt Acknowledgments to <hi>Grace.</hi>
+                  </l>
+                  <l>And with <hi>his Vertues</hi> fill the <hi>vacant Place:</hi>
+                  </l>
+                  <l>This <hi>Compoſition</hi> needs muſt fall too <hi>Law</hi>
+                  </l>
+                  <l>
+                     <hi>All</hi> I can Pay, is not the <hi>Tythe</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>J. O.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100800:76"/>
+            <head>To the <hi>READER</hi>
+            </head>
+            <head>On the <hi>BOOK.</hi>
+            </head>
+            <lg>
+               <l>REad here the Effigies of a lovely Soul,</l>
+               <l>Compos'd with a myſterious Harmony</l>
+               <l>Of what ſoe're was great and good; Behold,</l>
+               <l>The Parts rude draught the curious Texture, he</l>
+               <l>Alone that formed it ſo good</l>
+               <l>With that ſame Wiſdom underſtood,</l>
+               <l>A Soul too pure to act a Body here,</l>
+               <l>Too great to be confin'd to a Clod of Earth;</l>
+               <l>And ſhackling dull Mortality to bear,</l>
+               <l>Impatient to be gone as 'twas for birth,</l>
+               <l>Too reſolutely brisk by far</l>
+               <l>To keep's frail Cottage in repair.</l>
+               <l>Bleſt Martyr (ſo I dare that Hero call,</l>
+               <l>As well as thoſe who mount the Heav'n by fire,</l>
+               <l>Who ſacrifices quiet Life and all</l>
+               <l>Puſht on by uncontroulable deſire</l>
+               <l>To ſerve the Lord) thy Mem'ry ſhall</l>
+               <l>(Without our Praiſes) grateful be till this vaſt Fabrick fall</l>
+            </lg>
+            <closer>
+               <signed>J. E.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100800:76"/>
+            <pb facs="tcp:100800:77"/>
+            <pb facs="tcp:100800:77"/>
+            <pb facs="tcp:100800:78"/>
+            <pb facs="tcp:100800:78"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="100" facs="tcp:100800:79"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="101" facs="tcp:100800:79"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="102" facs="tcp:100800:80"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="103" facs="tcp:100800:80"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="104" facs="tcp:100800:81"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="105" facs="tcp:100800:81"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="106" facs="tcp:100800:82"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="107" facs="tcp:100800:82"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="108" facs="tcp:100800:83"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="109" facs="tcp:100800:83"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="110" facs="tcp:100800:84"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="111" facs="tcp:100800:84"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="112" facs="tcp:100800:85"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="113" facs="tcp:100800:85"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="114" facs="tcp:100800:86"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="115" facs="tcp:100800:86"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="116" facs="tcp:100800:87"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="117" facs="tcp:100800:87"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="118" facs="tcp:100800:88"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="119" facs="tcp:100800:88"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="120" facs="tcp:100800:89"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="121" facs="tcp:100800:89"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="122" facs="tcp:100800:90"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="123" facs="tcp:100800:90"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="124" facs="tcp:100800:91"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="125" facs="tcp:100800:91"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="126" facs="tcp:100800:92"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="127" facs="tcp:100800:92"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="128" facs="tcp:100800:93"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="129" facs="tcp:100800:93"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="130" facs="tcp:100800:94"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="131" facs="tcp:100800:94"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="132" facs="tcp:100800:95"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="133" facs="tcp:100800:95"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="134" facs="tcp:100800:96"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="135" facs="tcp:100800:96"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:97"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:97"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:98"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:98"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:99"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:99"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:100"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:100"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:101"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100800:101"/>
+         </div>
+      </back>
+   </text>
+</TEI>
